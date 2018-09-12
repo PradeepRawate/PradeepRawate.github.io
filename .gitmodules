@@ -1,0 +1,3 @@
+[submodule "ng6-pagination"]
+	path = ng6-pagination
+	url = https://github.com/PradeepRawate/ng6-pagination.git
