@@ -1,0 +1,4280 @@
+[
+  {
+    "lat": 50.890654,
+    "sensorId": "Health Band 1",
+    "location": {
+      "country": "India",
+      "city": "Pune"
+    },
+    "company": "Columbia Hospital",
+    "type": "Health",
+    "date": "03 June, 2019 21:48 pm ",
+    "price": 3.518
+  },
+  {
+    "lat": 50.890654,
+    "sensorId": "ADSB",
+    "address": "BBRR9RWKXKZPVXRVWCNPQUGDOSLFNXKCURYENNDBUIWNSKEOUOVSCOSTMKZY9UEUUBWQXQSXMYXGVTBVD",
+    "inactive": true,
+    "dataTypes": [
+      {
+        "name": "",
+        "id": "Position",
+        "unit": ""
+      }
+    ],
+    "lon": 15.753066,
+    "location": {
+      "country": "Poland",
+      "city": "Jelenia Góra"
+    },
+    "company": "",
+    "type": "ADSB Station",
+    "date": "03 June, 2019 21:48 pm ",
+    "price": 32.594,
+    "createTime": {
+      "_seconds": 1559591165,
+      "_nanoseconds": 199316000
+    }
+  },
+  {
+    "lat": 50.890654,
+    "sensorId": "Apple Health Band",
+    "location": {
+      "country": "India",
+      "city": "Pune"
+    },
+    "company": "Patil Hospital",
+    "type": "Health",
+    "date": "03 June, 2019 21:48 pm ",
+    "price": 3.518
+  },
+  {
+    "dataTypes": [
+      {
+        "id": "DataModel",
+        "unit": "text",
+        "name": "DigitalShadow"
+      }
+    ],
+    "lon": 7.8167,
+    "location": {
+      "city": "Reute",
+      "country": "Germany"
+    },
+    "company": "Lukas Adler",
+    "type": "Electronic Card",
+    "date": "06 June, 2019 8:39 am ",
+    "price": 32.594,
+    "lat": 48.0833,
+    "sensorId": "ElectronicCardDigitalTwin",
+    "address": "LWZKECUQLYDODWFRUCQCJJTWCEHSHL9V9DFAWBKHXIBXI9YDHT9AFQXUDOBRZJONBFNREUQEEMVLMBVOB",
+    "inactive": true,
+    "createTime": {
+      "_seconds": 1559803167,
+      "_nanoseconds": 287070000
+    }
+  },
+  {
+    "location": {
+      "country": "Germany",
+      "city": "Munich"
+    },
+    "lon": "48.262617",
+    "lat": "11.668276",
+    "sensorId": "Raspberry-Pi-Website-Monitor",
+    "address": "MIPFVDZV9TBIMHKNGWGAZQZZBWYPUISTP9MKJGX9GF9VIQUKDOJIWTABRJTNADBXZSCR9KIODACJJJDVD",
+    "company": "Technical University of Munich",
+    "dataTypes": [
+      {
+        "id": "status",
+        "unit": "",
+        "name": "Online Status"
+      }
+    ],
+    "type": "Website monitoring",
+    "value": "296",
+    "createTime": {
+      "_seconds": 1512122882,
+      "_nanoseconds": 838144000
+    }
+  },
+  {
+    "lat": 50.890654,
+    "sensorId": "Mi Health Band",
+    "location": {
+      "country": "India",
+      "city": "Delhi"
+    },
+    "company": "Sahyadri Hospital",
+    "type": "Health",
+    "date": "03 June, 2019 21:48 pm ",
+    "price": 5.388
+  },
+  {
+    "price": 12.134,
+    "lat": 52.31,
+    "sensorId": "Fitbit123",
+    "address": "XDSOIZVPSPBFFUHMHTDTQDN9NCOZHISPUGWNWMPEKPAGJMHSJ9LWTELMKRHMCEITEUYKEGEWOGMECOASY",
+    "inactive": true,
+    "dataTypes": [
+      {
+        "id": "Temp",
+        "unit": "C",
+        "name": "Temperature"
+      }
+    ],
+    "lon": 12.52,
+    "location": {
+      "country": "Germany",
+      "city": "Berlin"
+    },
+    "company": "None",
+    "type": "Dummy ",
+    "date": "04 July, 2019 13:54 pm ",
+    "createTime": {
+      "_seconds": 1562241289,
+      "_nanoseconds": 766617000
+    }
+  },
+  {
+    "lat": 50.890654,
+    "sensorId": "CityXDF",
+    "location": {
+      "country": "India",
+      "city": "Mumbai"
+    },
+    "company": "Lalwani HealthCare",
+    "type": "Health",
+    "date": "03 June, 2019 21:48 pm ",
+    "price": 2.84
+  },
+  {
+    "value": "1500",
+    "lon": "6.566502",
+    "location": {
+      "city": "Netherlands",
+      "country": "Groningen"
+    },
+    "company": "Gasunie",
+    "type": "Puck",
+    "lat": "53.219384",
+    "sensorId": "PuckSensor123.js",
+    "address": "MDEWDXRFURBCPRYAJHOLRGXVOITYIBFHPSWRDK9GAEJJNYBWDREPMMNTCUZQZYRELZBGMORGCIWOBP9D9",
+    "inactive": true,
+    "dataTypes": [
+      {
+        "id": "Light Sensor",
+        "unit": "lux",
+        "name": "Light"
+      },
+      {
+        "id": "Magnetic Field",
+        "unit": "Tesla",
+        "name": "Magnetic"
+      }
+    ],
+    "createTime": {
+      "_seconds": 1523014436,
+      "_nanoseconds": 368614000
+    }
+  },
+  {
+    "lon": 14.114978,
+    "location": {
+      "city": "Lofoten",
+      "country": "Norway"
+    },
+    "company": "Private",
+    "type": "Wather Station",
+    "date": "12 May, 2019 20:17 pm ",
+    "price": 18.23,
+    "lat": 68.240792,
+    "sensorId": "Rasp-Pi3-SenseHat",
+    "address": "RGVLDCGNLDXTPOPAERJIVFXRAGCRXALIKMHWEU9PN9RFTVFHSPZJRQPJUVHKOOOHQPNGIAFEMWAUKYOYD",
+    "inactive": true,
+    "dataTypes": [
+      {
+        "id": "temp",
+        "unit": "c",
+        "name": "Temperature"
+      }
+    ],
+    "createTime": {
+      "_seconds": 1557685090,
+      "_nanoseconds": 668578000
+    }
+  },
+  {
+    "inactive": true,
+    "dataTypes": [
+      {
+        "name": "Temperature",
+        "id": "temp",
+        "unit": "C"
+      }
+    ],
+    "lon": -12523,
+    "location": {
+      "country": "Argentina",
+      "city": "Buenos Aires"
+    },
+    "company": "XDK2MAM",
+    "type": "Weather",
+    "date": "24 April, 2019 13:17 pm ",
+    "price": 12.134,
+    "lat": 52022,
+    "sensorId": "Test",
+    "address": "SPWSNHOT99KDHNBAWHFOISGRIOLFGJNYZ9BFH9MVBILDPJF9IDCTVUGTRXGQIOOG9LENPXOAWFEBZEFZX",
+    "createTime": {
+      "_seconds": 1556123210,
+      "_nanoseconds": 165924000
+    }
+  },
+  {
+    "type": "Weather station",
+    "price": "18.23",
+    "location": {
+      "city": "Oslo",
+      "country": "Norway"
+    },
+    "lon": 59.91152639999999,
+    "lat": 59.91152639999999,
+    "sensorId": "Disruptive Temp",
+    "address": "EOTOQUZEUTZHGJJYHXIRPZQDKVCTEGPCALFJYYGGKSFFYSEBZEMREIPUMMRMSOLPHDUJBWJV9OGMMSMTX",
+    "inactive": true,
+    "company": "Lars in The Sky",
+    "dataTypes": [
+      {
+        "id": "Temp1",
+        "unit": "c",
+        "name": "Temprature"
+      }
+    ],
+    "createTime": {
+      "_seconds": 1537959429,
+      "_nanoseconds": 301025000
+    }
+  },
+  {
+    "lat": "41.52",
+    "sensorId": "Thingy52_CLE",
+    "address": "ALMIVJDLYNYWVIWHYSILJIQTMKOHBYLPEDBIINLVWFKUJTLTWTVAQPVHMSMTKKSSYJRIDYLUAQNIGQSNW",
+    "inactive": true,
+    "dataTypes": [
+      {
+        "name": "Temperature",
+        "id": "temperature",
+        "unit": "C"
+      },
+      null,
+      {
+        "name": "Humidity",
+        "id": "humidity",
+        "unit": "%"
+      },
+      {
+        "name": "CO2",
+        "id": "co2",
+        "unit": "ppm"
+      },
+      {
+        "name": "VOC",
+        "id": "voc",
+        "unit": "ppb"
+      }
+    ],
+    "type": "Nordic Thingy:52",
+    "value": "1",
+    "location": {
+      "city": "Cleveland ",
+      "country": "US "
+    },
+    "lon": "81.63",
+    "createTime": {
+      "_seconds": 1544373906,
+      "_nanoseconds": 771454000
+    }
+  },
+  {
+    "lat": -12.077087,
+    "sensorId": "Ariwonto- Atmospheric",
+    "address": "UVHZLNN9X9XIZPJYRGCPCCIWUEPO9VJJIQLRRWAJ9KHVOX9HHECKVYSWUZSHYYKLYWUQARKCDRZZZPFIW",
+    "inactive": true,
+    "dataTypes": [
+      {
+        "name": "Temperature",
+        "id": "temp",
+        "unit": "c"
+      },
+      {
+        "name": "Humidity",
+        "id": "hum",
+        "unit": "%"
+      },
+      {
+        "id": "patmo",
+        "unit": "hPa",
+        "name": "Pressure"
+      }
+    ],
+    "lon": -77.08174,
+    "location": {
+      "country": "Peru",
+      "city": "Lima"
+    },
+    "company": "Ariwonto LLC",
+    "type": " Atmospheric Station",
+    "date": "25 February, 2019 19:27 pm ",
+    "price": 58.23,
+    "createTime": {
+      "_seconds": 1551140865,
+      "_nanoseconds": 367631000
+    }
+  },
+  {
+    "type": "Teste",
+    "date": "09 July, 2019 17:48 pm ",
+    "price": 200,
+    "lat": -22.2358697,
+    "sensorId": "Device 1 - Tulio",
+    "address": "RVMVDNGPZGJ9UIERGEFPZPPYOUHCMVPCNVBGZMUBZHKRBLVQJFIEKBACDVUIFQIYEKLUGTAJHMYIPIOAA",
+    "inactive": true,
+    "dataTypes": [
+      {
+        "id": "temp",
+        "unit": "C",
+        "name": "Temperatura"
+      }
+    ],
+    "lon": -45.7141654,
+    "location": {
+      "city": "Santa Rita do Sapucai",
+      "country": "Brazil"
+    },
+    "company": "Teste",
+    "createTime": {
+      "_seconds": 1562705347,
+      "_nanoseconds": 695148000
+    }
+  },
+  {
+    "inactive": true,
+    "dataTypes": [
+      {
+        "name": "Temperature",
+        "id": "temperature",
+        "unit": "C"
+      },
+      null,
+      {
+        "name": "Humidity",
+        "id": "humidity",
+        "unit": "%"
+      },
+      {
+        "id": "co2",
+        "unit": "ppm",
+        "name": "CO2"
+      },
+      {
+        "id": "voc",
+        "unit": "ppb",
+        "name": "VOC"
+      }
+    ],
+    "type": "Nordic Thingy:52",
+    "value": "1",
+    "location": {
+      "country": "Greece",
+      "city": "Athens"
+    },
+    "lon": "23.7386217",
+    "lat": "37.9471671",
+    "sensorId": "Macway Thingy",
+    "address": "VNHCCBIPAUQWBAARAHZBIWBZFFCZZYXUYMNQTETSUJAWTLJBNTQFTAGQP99AJGWQLJUTIPCQZSYFFBDGV",
+    "createTime": {
+      "_seconds": 1530722912,
+      "_nanoseconds": 675268000
+    }
+  },
+  {
+    "company": "",
+    "type": "Weather Station",
+    "date": "26 February, 2019 18:14 pm ",
+    "price": 58.23,
+    "lat": 50.572037,
+    "sensorId": "Homematic HmIP-SWO-P",
+    "address": "PPEKGDVHGAFWZIZMWXOEFSKNKJRDNTVNAHACIEJUCXUBHINYMJGCHOSTYGZSNEIQRNJL9FMXKHPJYJKIW",
+    "inactive": true,
+    "dataTypes": [
+      {
+        "name": "Temperature",
+        "id": "temp",
+        "unit": "c"
+      }
+    ],
+    "lon": 8.661303,
+    "location": {
+      "city": "Giessen",
+      "country": "Germany"
+    },
+    "createTime": {
+      "_seconds": 1551201262,
+      "_nanoseconds": 253230000
+    }
+  },
+  {
+    "lon": -12.2,
+    "location": {
+      "country": "Vietnam",
+      "city": "Ho Chi Minh"
+    },
+    "company": "Dai Nhan",
+    "type": "Star Wars vehicles scanner",
+    "date": "02 March, 2019 15:47 pm ",
+    "price": 58.23,
+    "lat": 52.1,
+    "sensorId": "Star Wars vehicles",
+    "address": "9YHQCGMOJWWJHBHGJ9MYIITGDJJRQIPVGGW9YKJSQWKLIZIVCEYYPGCPUAXGLZXEKOYYD9ONKWKHREVQA",
+    "inactive": true,
+    "dataTypes": [
+      {
+        "id": "name",
+        "unit": "name",
+        "name": "vehicle name"
+      }
+    ],
+    "createTime": {
+      "_seconds": 1551516465,
+      "_nanoseconds": 994241000
+    }
+  },
+  {
+    "company": "",
+    "type": "Weather Station",
+    "date": "07 March, 2019 19:53 pm ",
+    "price": 1000,
+    "lat": 53.05558,
+    "sensorId": "BME680",
+    "address": "GUWZBX9KOPCOQXJAZS9GBWEDLZEGVAMUOCQGVYLLCITZGHTMQGLFITDNN9YYHEPGESS9WXNUXIV9TYYZY",
+    "inactive": true,
+    "dataTypes": [
+      {
+        "id": "temp",
+        "unit": "°C",
+        "name": "Temperature"
+      },
+      {
+        "name": "Pressure",
+        "id": "pressure",
+        "unit": "Pa"
+      },
+      {
+        "name": "Humidity",
+        "id": "humidity",
+        "unit": "%"
+      },
+      {
+        "id": "Air Quality",
+        "unit": "-",
+        "name": "Air Quality"
+      }
+    ],
+    "lon": 8.78353,
+    "location": {
+      "city": "Bremen",
+      "country": "Germany"
+    },
+    "createTime": {
+      "_seconds": 1551984832,
+      "_nanoseconds": 892727000
+    }
+  },
+  {
+    "type": "Weather station",
+    "lat": "59.346309",
+    "sensorId": "InnoEnergy-P2U0001",
+    "address": "RK9BIZQIVYMWLNQFTUFQSKKNIKJFJAPQTCXGYZCXGQQZWTABKNZMJPXNCKARSFLNUTANWMGADSGTEJKJW",
+    "inactive": true,
+    "dataTypes": [
+      {
+        "id": "temp",
+        "unit": "C",
+        "name": "Temperature"
+      }
+    ],
+    "value": "1377",
+    "lon": "18.072373",
+    "location": {
+      "country": "Sweden",
+      "city": "Stockholm"
+    },
+    "company": "InnoEnergy Sweden",
+    "createTime": {
+      "_seconds": 1516884366,
+      "_nanoseconds": 133167000
+    }
+  },
+  {
+    "lat": "52",
+    "sensorId": "NL39",
+    "address": "9BAJXWEDTABRVGQFMBKWBGXIOHEBAJEBYIFVBKJ9QMPIRNWAFWJGLOGOEOWLSARGDBIBFEATBUSERTYI9",
+    "inactive": false,
+    "dataTypes": [
+      {
+        "name": "Temperature",
+        "id": "temp",
+        "unit": "c"
+      }
+    ],
+    "value": "1277",
+    "lon": "52",
+    "location": {
+      "city": "Arnhem",
+      "country": "the Netherlands"
+    },
+    "company": "Allego",
+    "type": "Charging station",
+    "createTime": {
+      "_seconds": 1518535405,
+      "_nanoseconds": 850892000
+    }
+  },
+  {
+    "company": "",
+    "type": "temp",
+    "date": "23 July, 2019 11:06 am ",
+    "price": 58.23,
+    "lat": 49.49671,
+    "sensorId": "Neo-Test",
+    "address": "E9BR9XUXIUPCRPAMOZRLX9RUCJOOYANNZKGCKEGEITVADNJAJVRVNPFYSWMQLMGMUJUNTGXIP9STXTZZX",
+    "inactive": true,
+    "dataTypes": [
+      {
+        "id": "temp",
+        "unit": "C",
+        "name": "Temperature"
+      }
+    ],
+    "lon": 8.47955,
+    "location": {
+      "country": "Germany",
+      "city": "mannheim"
+    },
+    "createTime": {
+      "_seconds": 1563872801,
+      "_nanoseconds": 67041000
+    }
+  },
+  {
+    "company": "UNMSM",
+    "type": "Temperature Sensor",
+    "lat": -12.053638,
+    "sensorId": "LM35",
+    "address": "TO9OTVZC9IQVGMMRYWDLTRQMAGVZPLEIFIPCAPSTMAWR9HLQ9XKWJTEK9VGMG9MHXA9UAO9ALGYQUJWSV",
+    "inactive": false,
+    "dataTypes": [
+      {
+        "name": "Temperature",
+        "id": "temp",
+        "unit": "c"
+      }
+    ],
+    "value": "1008",
+    "lon": -77.08545,
+    "location": {
+      "city": "Lima",
+      "country": "Peru"
+    },
+    "createTime": {
+      "_seconds": 1525902727,
+      "_nanoseconds": 697084000
+    }
+  },
+  {
+    "lat": 63.446827,
+    "sensorId": "Garmin Fenix 5X",
+    "address": "BOUCAUMGVKBYFSM9YOJQXLNRDFORKJZYE9TJOWMMDBGMZSBLYNAMVUOWIDCSRZVQKOAWIFSFPPBNTIPHC",
+    "inactive": true,
+    "company": "Private",
+    "dataTypes": [
+      {
+        "id": "Pulse",
+        "unit": "BPM",
+        "name": "Pulse"
+      },
+      {
+        "name": "",
+        "id": "",
+        "unit": ""
+      },
+      {
+        "name": "",
+        "id": "",
+        "unit": ""
+      }
+    ],
+    "type": "Smart Watch",
+    "price": "1000",
+    "location": {
+      "city": "Trondheim",
+      "country": "Norway"
+    },
+    "lon": 10.421906,
+    "createTime": {
+      "_seconds": 1538660358,
+      "_nanoseconds": 474129000
+    }
+  },
+  {
+    "lat": 50.73,
+    "sensorId": "Netatmo-35315",
+    "address": "XXXUMCXECESKTMFXSAYZKVEKZSTEOSGHAXEDXRQBJTHBRWQGZNHTUAYREVJDVYZZXS9KQXGWQXKYTVCZC",
+    "inactive": true,
+    "dataTypes": [
+      {
+        "id": "temp",
+        "unit": "c",
+        "name": "Temperature"
+      }
+    ],
+    "lon": 9,
+    "location": {
+      "city": "Homberg (Ohm)",
+      "country": "Germany"
+    },
+    "company": "Private",
+    "type": "WaetherStation",
+    "date": "28 April, 2019 17:29 pm ",
+    "price": 1000,
+    "createTime": {
+      "_seconds": 1556465374,
+      "_nanoseconds": 144895000
+    }
+  },
+  {
+    "address": "R9DNBUYMQNDELHVFCF9EXWMZAPZPRTHDLLPRJYRPQFUDZAASMTZWLZEMIEVSEPZWEIVEZESYLVGYDCPJD",
+    "company": "IRT-SystemX",
+    "dataTypes": [
+      {
+        "name": "Temperature",
+        "id": "tmp",
+        "unit": "c"
+      }
+    ],
+    "type": "Weather Station",
+    "value": 350000,
+    "location": {
+      "country": "France",
+      "city": "Palaiseau"
+    },
+    "lon": "2.245748",
+    "lat": "48.711727",
+    "sensorId": "RPI3-ISX-1123",
+    "createTime": {
+      "_seconds": 1511354123,
+      "_nanoseconds": 4057000
+    }
+  },
+  {
+    "company": "Hackathon",
+    "type": "Ford Focus",
+    "date": "07 June, 2019 10:21 am ",
+    "price": 5000,
+    "lat": 51.011,
+    "sensorId": "Ruuvi Tag Car 1",
+    "address": "XFJULISQLBTMMOEFZAEJMCYZBUVIYMQLUIMDNHFUKWQBOXH9BUYN9SXDWNUZVEMBXMQAUBPXWQQRK9PHW",
+    "inactive": true,
+    "dataTypes": [
+      {
+        "name": "Temperature",
+        "id": "temp",
+        "unit": "c"
+      },
+      {
+        "id": "hum",
+        "unit": "%",
+        "name": "Humidity"
+      },
+      {
+        "name": "Noise",
+        "id": "noise",
+        "unit": "dB"
+      }
+    ],
+    "lon": 6.955,
+    "location": {
+      "city": "Cologne",
+      "country": "Germany"
+    },
+    "createTime": {
+      "_seconds": 1559895692,
+      "_nanoseconds": 97630000
+    }
+  },
+  {
+    "lat": 48.350052,
+    "sensorId": "Beni345-XDK-Weather",
+    "address": "9XLP9FGPFKFJZTYFIYBNTMKMRXZK9Q9KOSDIDSCRNYOUIASNCRMAQGNPAEVAIFTBDXWFEORLQHRUZSNND",
+    "inactive": true,
+    "dataTypes": [
+      {
+        "name": "Temperature",
+        "id": "temp",
+        "unit": "mC"
+      },
+      {
+        "name": "Humidity",
+        "id": "hum",
+        "unit": "hr"
+      },
+      {
+        "name": "Pressure",
+        "id": "press",
+        "unit": "Pa"
+      }
+    ],
+    "lon": 9.195643,
+    "location": {
+      "country": "Germany",
+      "city": "Sonnenbühl"
+    },
+    "company": "HerrPrivate",
+    "type": "Weather Station",
+    "date": "11 January, 2019 21:48 pm ",
+    "price": "1000",
+    "timestamp": 1547239707900,
+    "createTime": {
+      "_seconds": 1547239729,
+      "_nanoseconds": 12683000
+    }
+  },
+  {
+    "company": "Teste",
+    "type": "Teste",
+    "date": "09 July, 2019 17:36 pm ",
+    "price": 300,
+    "lat": 50,
+    "sensorId": "Teste",
+    "address": "UPX9TGF9YJDXUZP9V9XSRGDVFZAJPENKAZHTPMEBYUOJNFIBAGMNLNWSEXPJGMCHZPPQDCHGDMJORFHQ9",
+    "inactive": true,
+    "dataTypes": [
+      {
+        "id": "temp",
+        "unit": "C",
+        "name": "Temperature"
+      }
+    ],
+    "lon": -12,
+    "location": {
+      "city": "Santa Rita do Sapucai",
+      "country": "Brazil"
+    },
+    "createTime": {
+      "_seconds": 1562704589,
+      "_nanoseconds": 237996000
+    }
+  },
+  {
+    "dataTypes": [
+      {
+        "name": "Temperature",
+        "id": "temp",
+        "unit": "Celsius"
+      }
+    ],
+    "lon": -87.6341123,
+    "location": {
+      "city": "Chicago",
+      "country": "United States"
+    },
+    "company": "Civis Analytics",
+    "type": "XDK Sensor",
+    "date": "17 April, 2019 14:54 pm ",
+    "price": 64.98844830331409,
+    "lat": 41.8809008,
+    "sensorId": "Civis-XDK-01",
+    "address": "VLVGFDHZWEXLFPGOVUGZPLVECOBTZCLRHHJLKOFQMTFYWQRORAZKEUQPNUILZ9SCWYGUIUUEUTTGJA9B9",
+    "inactive": true,
+    "createTime": {
+      "_seconds": 1555530879,
+      "_nanoseconds": 191134000
+    }
+  },
+  {
+    "inactive": true,
+    "dataTypes": [
+      {
+        "id": "temperature",
+        "unit": "C",
+        "name": "Temperature"
+      },
+      null,
+      {
+        "id": "humidity",
+        "unit": "%",
+        "name": "Humidity"
+      },
+      {
+        "name": "CO2",
+        "id": "co2",
+        "unit": "ppm"
+      },
+      {
+        "name": "VOC",
+        "id": "voc",
+        "unit": "ppb"
+      }
+    ],
+    "type": "Nordic Thingy:52",
+    "value": "1",
+    "location": {
+      "country": "India",
+      "city": "Chennai"
+    },
+    "lon": 80.27,
+    "lat": 13.09,
+    "sensorId": "Sensy",
+    "address": "GPADMKPIQS9ROEZSTANHPANTLR9RCDJ9Z9SLQJWIHKUTKMHBRQILIIWXXSDCBLOKTEJWBLQHCMZNPALWY",
+    "createTime": {
+      "_seconds": 1527070209,
+      "_nanoseconds": 768366000
+    }
+  },
+  {
+    "lat": 51.029,
+    "sensorId": "Ruuvi Tag Car 2",
+    "address": "SEOBGJ9PPROTIOFRGVUXRCHLMBPGILEKXTYEJYTNKCZCBFDZOWOAWQLTBGMJULHZVUZKXFKOB9XFKQQNW",
+    "inactive": true,
+    "dataTypes": [
+      {
+        "name": "Temperature",
+        "id": "temp",
+        "unit": "c"
+      },
+      {
+        "name": "Humidity",
+        "id": "hum",
+        "unit": "%"
+      },
+      {
+        "name": "Noise",
+        "id": "noise",
+        "unit": "dB"
+      }
+    ],
+    "lon": 6.935,
+    "location": {
+      "city": "Cologne",
+      "country": "Germany"
+    },
+    "company": "Hackathon",
+    "type": "Ford Fiesta",
+    "date": "07 June, 2019 10:24 am ",
+    "price": 5000,
+    "createTime": {
+      "_seconds": 1559895855,
+      "_nanoseconds": 144545000
+    }
+  },
+  {
+    "lon": 12.7338963,
+    "location": {
+      "country": "Germany",
+      "city": "Mitterskirchen"
+    },
+    "company": "",
+    "type": "Weatherstation",
+    "date": "28 March, 2019 15:13 pm ",
+    "price": 38.23,
+    "lat": 48.3479058,
+    "sensorId": "Mitterskirchen84335",
+    "address": "XNVSPXN9FHV9KKEGAGJLAWKBZNLCPLDEVI9EMZNQALAQLYKHZFAYVZGVGUIEAFBQFYFPTXNNPNXZGSDZB",
+    "inactive": true,
+    "dataTypes": [
+      {
+        "name": "Temperature",
+        "id": "T1",
+        "unit": "C"
+      }
+    ],
+    "createTime": {
+      "_seconds": 1553782454,
+      "_nanoseconds": 705029000
+    }
+  },
+  {
+    "type": "Air Quality Monitor",
+    "lat": "59.9475789",
+    "sensorId": "CCS811",
+    "address": "COBKVTEIFXUVGLCB9LJMZXYRRREPCUWBCJCOYXSYFBVPFWYEBWVM9DARJSMRPT9XOXOOUDVPXEVJEJSQ9",
+    "inactive": false,
+    "dataTypes": [
+      {
+        "id": "temp",
+        "unit": "c",
+        "name": "Temperature"
+      },
+      {
+        "id": "CO2",
+        "unit": "ppm",
+        "name": "eCO2"
+      },
+      {
+        "id": "VOC",
+        "unit": "ppb",
+        "name": "Total_Volatile_Organic_Compound"
+      }
+    ],
+    "value": "1100",
+    "lon": "10.770097999999962",
+    "location": {
+      "country": "Norway",
+      "city": "Oslo"
+    },
+    "company": "IntelZone",
+    "createTime": {
+      "_seconds": 1519995004,
+      "_nanoseconds": 609545000
+    }
+  },
+  {
+    "company": "ifm electronic gmbh",
+    "type": "IoLink-Master",
+    "price": "5000",
+    "lat": 47.602264,
+    "sensorId": "AL-1322(IoLink Device)",
+    "address": "HAVPWVOZPKYDJRYKDYZQMRGOQPTNMPRY9KNQYRFI9CUTQGOSURBUSABUVSYIRAYRGXXO9NYHAFNTQAJHD",
+    "inactive": true,
+    "dataTypes": [
+      {
+        "id": "temp",
+        "unit": "C",
+        "name": "Temperature"
+      },
+      {
+        "id": "encod",
+        "unit": "hex",
+        "name": "Encoder"
+      }
+    ],
+    "lon": 9.586978,
+    "location": {
+      "country": "Germany",
+      "city": "Kressbronn"
+    },
+    "data": "11 March, 2019 16:20 am",
+    "createTime": {
+      "_seconds": 1552317608,
+      "_nanoseconds": 425415000
+    },
+    "hasData": true
+  },
+  {
+    "company": "DNV GL AS",
+    "type": "Weather Station (dummy)",
+    "lat": "59.53",
+    "sensorId": "VeracityTest",
+    "address": "SROOLMRPMWZHUSTNRTRSENPMSANGVCHTBEROWTDST9TEPPVRCWIV9VI9EOUBNDHDQJQDPGVXSISCYHA99",
+    "inactive": true,
+    "dataTypes": [
+      {
+        "id": "Temp",
+        "unit": "c",
+        "name": "Temperature"
+      }
+    ],
+    "value": "1730",
+    "lon": "10.33",
+    "location": {
+      "country": "Norway",
+      "city": "Oslo"
+    },
+    "createTime": {
+      "_seconds": 1519650416,
+      "_nanoseconds": 839357000
+    }
+  },
+  {
+    "inactive": true,
+    "dataTypes": [
+      {
+        "id": "temperature",
+        "unit": "C",
+        "name": "Temperature"
+      },
+      null,
+      {
+        "id": "humidity",
+        "unit": "%",
+        "name": "Humidity"
+      },
+      {
+        "id": "co2",
+        "unit": "ppm",
+        "name": "CO2"
+      },
+      {
+        "id": "voc",
+        "unit": "ppb",
+        "name": "VOC"
+      }
+    ],
+    "type": "Nordic Thingy:52",
+    "value": "1",
+    "location": {
+      "city": "Trondheim",
+      "country": "Norway"
+    },
+    "lon": "10.3951° E",
+    "lat": "63.4305° N",
+    "sensorId": "Thingy:52",
+    "address": "9PXJTVOUHQBBJAUDWQPNIUJNPQERIMOPDBCWWR9FTAGQUTLIVOOVMVGA9NFXMYHLJFJIBEWKGVLFGLLHW",
+    "createTime": {
+      "_seconds": 1548135941,
+      "_nanoseconds": 655570000
+    }
+  },
+  {
+    "price": 18.23,
+    "lat": 52,
+    "sensorId": "Aldozero123",
+    "address": "FSOEAUFME9ASBLMEGGGCTWEKTCALMFAXJG9GEC9TI9HYIVCYETC9FBDGCIXTFRQWWDLLYQOJONLQIOVRA",
+    "inactive": true,
+    "dataTypes": [
+      {
+        "id": "temp",
+        "unit": "C",
+        "name": "Temperature"
+      }
+    ],
+    "lon": -12,
+    "location": {
+      "city": "Hamburg",
+      "country": "Berlin"
+    },
+    "company": "Private",
+    "type": "Weather Station",
+    "date": "26 February, 2019 9:18 am ",
+    "createTime": {
+      "_seconds": 1551169107,
+      "_nanoseconds": 669158000
+    }
+  },
+  {
+    "dataTypes": [
+      {
+        "id": "Temperature",
+        "unit": "C",
+        "name": "Temperature"
+      },
+      {
+        "id": "Pressure",
+        "unit": "hPa",
+        "name": "Pressure"
+      },
+      {
+        "name": "Humidity",
+        "id": "Humidity",
+        "unit": "%"
+      },
+      {
+        "id": "Co2",
+        "unit": "ppm",
+        "name": "Co2"
+      },
+      {
+        "id": "Voc",
+        "unit": "ppb",
+        "name": "Voc"
+      }
+    ],
+    "value": "1574",
+    "lon": "10.4118785",
+    "location": {
+      "city": "Trondheim",
+      "country": "Norge"
+    },
+    "company": "NTNU",
+    "type": "Weather station",
+    "lat": "63.4188449",
+    "sensorId": "NTNU",
+    "address": "ECVZEJWPGTZRIFYFSEZHETC9QJTHC9CUZQJZWVEKLRQCSFYQXNPEDTLUPSDCR9NRLLTANDFCPGLTXPJDM",
+    "inactive": false,
+    "createTime": {
+      "_seconds": 1525860761,
+      "_nanoseconds": 885491000
+    }
+  },
+  {
+    "type": "Nordic Thingy:52",
+    "value": "1",
+    "location": {
+      "city": "Cleveland ",
+      "country": "US "
+    },
+    "lon": "81.63",
+    "lat": "41.52",
+    "sensorId": "Thingy52CLE",
+    "address": "YHYRTISFJBXOUITZVGRQDFOBSGLMHDNXBQXK9PATDLCJGVBITOAOKVYJEKXRFNOBGNWIEGTVJGO9ZT9YB",
+    "inactive": true,
+    "dataTypes": [
+      {
+        "name": "Temperature",
+        "id": "temperature",
+        "unit": "C"
+      },
+      {
+        "id": "humidity",
+        "unit": "%",
+        "name": "Humidity"
+      }
+    ],
+    "createTime": {
+      "_seconds": 1544381505,
+      "_nanoseconds": 350796000
+    }
+  },
+  {
+    "company": "Sweco Norge AS",
+    "type": "Temperatur",
+    "lat": "60",
+    "sensorId": "Temp sensor",
+    "address": "ZHRGFDESICFNRZQNIHVIUAXKPXJJJZNZWXJRG999DIMQVHJAPUCWDPZDNGEBNAK9YYKUKDHKCIBTIISQW",
+    "inactive": true,
+    "dataTypes": [
+      {
+        "id": "Temp",
+        "unit": "C",
+        "name": "Tempertaure"
+      }
+    ],
+    "value": "1073",
+    "lon": "5",
+    "location": {
+      "city": "Bergen",
+      "country": "Norway"
+    },
+    "createTime": {
+      "_seconds": 1530189190,
+      "_nanoseconds": 455105000
+    }
+  },
+  {
+    "lon": 48.35,
+    "location": {
+      "city": "Mitterskirchen",
+      "country": "Germany"
+    },
+    "company": "Paikea Ventures",
+    "type": "Ruuvi Sensor",
+    "date": "14 April, 2019 21:18 pm ",
+    "price": 38.23,
+    "lat": 12.733,
+    "sensorId": "Ruuvi",
+    "address": "QHGCZXGJPRXWKDSKLWRIVDIBNPUQEDIY9XZLSHDSPWCH9IBJSJ9KBCPAERRXMZI9QLPXJ9FX9JPABSLYY",
+    "inactive": true,
+    "dataTypes": [
+      {
+        "id": "temp",
+        "unit": "C",
+        "name": "temperature"
+      },
+      {
+        "id": "Air pressure",
+        "unit": "hPa",
+        "name": "pressure"
+      },
+      {
+        "id": "Humidity",
+        "unit": "%",
+        "name": "humidity"
+      }
+    ],
+    "createTime": {
+      "_seconds": 1555269548,
+      "_nanoseconds": 287142000
+    }
+  },
+  {
+    "lat": "6.5",
+    "sensorId": "TelePi",
+    "address": "SEYSGVOUETYUPXZLEFLDMIAEWORKLNUAVEDALKCBSVXMFPWNPRNNJANAFPDSGCOZRJTQTI9YXRRRYSPR9",
+    "inactive": false,
+    "dataTypes": [
+      {
+        "name": "temp",
+        "id": "temp",
+        "unit": "c"
+      }
+    ],
+    "value": "1027",
+    "lon": -75.59,
+    "location": {
+      "city": "medellin",
+      "country": "colombia"
+    },
+    "company": "Telemetrik",
+    "type": "false",
+    "createTime": {
+      "_seconds": 1516798860,
+      "_nanoseconds": 704230000
+    }
+  },
+  {
+    "inactive": false,
+    "dataTypes": [
+      {
+        "name": "Temperature",
+        "id": "Temp",
+        "unit": "C"
+      }
+    ],
+    "value": "1295",
+    "lon": -75.5923749,
+    "location": {
+      "city": "Medellin",
+      "country": "Colombia"
+    },
+    "company": "EPM",
+    "type": "leon_delosrios_sensor",
+    "lat": "6.2335012",
+    "sensorId": "EPM-08",
+    "address": "KKKNTXA9CN9FSFPP9KLMBVGVQBBORBACJTQWFPPIFELHHHLBAQEQEPRBJF9MQPXAXUWNJ9OHFMIYHIZY9",
+    "createTime": {
+      "_seconds": 1521787322,
+      "_nanoseconds": 954447000
+    }
+  },
+  {
+    "address": "BO9GTEJJRSCGRBMJTYYXLPSVDXCAPOMGTLAKVVILVKQ9GXXTIXHCJ99TO9NMOKRRSAIRTUGKN9HA9YM9D",
+    "inactive": true,
+    "company": "Ruuvi Innovations Ltd",
+    "dataTypes": [
+      {
+        "id": "temperature",
+        "unit": "°C",
+        "name": "Temperature"
+      },
+      {
+        "name": "Humidity",
+        "id": "humidity",
+        "unit": "RH-%"
+      },
+      {
+        "name": "Pressure",
+        "id": "pressure",
+        "unit": "Pa"
+      },
+      {
+        "name": "AccelerationX",
+        "id": "accelerationx",
+        "unit": "mg"
+      },
+      {
+        "id": "accelerationy",
+        "unit": "mg",
+        "name": "AccelerationY"
+      },
+      {
+        "name": "AccelerationZ",
+        "id": "accelerationz",
+        "unit": "mg"
+      },
+      {
+        "name": "Battery",
+        "id": "battery",
+        "unit": "mV"
+      }
+    ],
+    "type": "Environmental sensor",
+    "value": 1337,
+    "location": {
+      "city": "Espoo",
+      "country": "Finland"
+    },
+    "lon": "24.832045",
+    "lat": "60.184831",
+    "sensorId": "RuuviTag_demogateway_otso_onthego",
+    "createTime": {
+      "_seconds": 1511545824,
+      "_nanoseconds": 489555000
+    }
+  },
+  {
+    "dataTypes": [
+      {
+        "id": "temp",
+        "unit": "c",
+        "name": "Temperature"
+      }
+    ],
+    "lon": 80.2363049586925,
+    "location": {
+      "city": "Chennai",
+      "country": "India"
+    },
+    "company": "Summer Research",
+    "type": "Weather Station",
+    "date": "19 June, 2019 18:19 pm ",
+    "price": 32.594,
+    "lat": 13.0430667624693,
+    "sensorId": "Ubimote",
+    "address": "OIXWGXRCJPKPPYJFOR9SUUKYYMAGB9PWMZXBECGH9IUEHCCFJYAYNYDPMZRVYATVKRJPLTEGGMIYGNHKX",
+    "inactive": true,
+    "createTime": {
+      "_seconds": 1560948561,
+      "_nanoseconds": 352925000
+    }
+  },
+  {
+    "lat": "53.201182",
+    "sensorId": "SmartPowerMeter",
+    "address": "TLRSEKDUX9DHKJDYGDEOZSVFSBZ9RZAWOPKZVIVLD9S9Q9UVLC9AOASDAGMAKSYOPHPWKFDVSRBYQ9ZCY",
+    "inactive": true,
+    "dataTypes": [
+      {
+        "id": "meterType",
+        "unit": "",
+        "name": "Meter type"
+      },
+      {
+        "name": "Version",
+        "id": "version",
+        "unit": ""
+      },
+      {
+        "id": "timeStamp",
+        "unit": "",
+        "name": "Time of reading"
+      },
+      {
+        "name": "Current consumption",
+        "id": "currentConsumption",
+        "unit": "kWh"
+      },
+      {
+        "name": "Current output",
+        "id": "currentOut",
+        "unit": "kWh"
+      }
+    ],
+    "value": "1628",
+    "lon": "6.550413",
+    "location": {
+      "city": "Groningen",
+      "country": "The Netherlands"
+    },
+    "company": "Gasunie",
+    "type": "Slimme meter",
+    "createTime": {
+      "_seconds": 1526411337,
+      "_nanoseconds": 947140000
+    }
+  },
+  {
+    "lat": 45.162935,
+    "sensorId": "FSTestDevice",
+    "address": "EYGZ9LBBRNMDOZOUJUDPHQGJLHHNWMJDXTGEDKZRGW9MGUVNFZNTTBCCZPCVSWYBCMA9JLAW9PILBAYEW",
+    "inactive": true,
+    "dataTypes": [
+      {
+        "name": "Instant Power",
+        "id": "power",
+        "unit": "kW"
+      },
+      {
+        "name": "Cumulated Energy",
+        "id": "energy",
+        "unit": "kWh"
+      }
+    ],
+    "lon": 9.6971372,
+    "location": {
+      "city": "Codogno",
+      "country": "Italia"
+    },
+    "company": "myown",
+    "type": "Energy meter",
+    "date": "05 December, 2018 17:46 pm ",
+    "price": "",
+    "timestamp": 1544028388201,
+    "createTime": {
+      "_seconds": 1544028398,
+      "_nanoseconds": 949389000
+    }
+  },
+  {
+    "company": "Geometric Energy Corporation",
+    "type": "Temperature Sensor",
+    "lat": "51.0486",
+    "sensorId": "Temperature Test",
+    "address": "NLTWMSQHXVXXJYGICBCDZMFZXUJNLFTBWPXJTMJGFIMWIWEQ99RLVAOUZ9OCATEWXZYPOZSRYFUTC9TA9",
+    "inactive": true,
+    "dataTypes": [
+      {
+        "name": "Temperature",
+        "id": "Temp",
+        "unit": "C"
+      }
+    ],
+    "value": "1755",
+    "lon": "114.0708",
+    "location": {
+      "city": "Calgary",
+      "country": "Canada"
+    },
+    "createTime": {
+      "_seconds": 1517252021,
+      "_nanoseconds": 310404000
+    }
+  },
+  {
+    "lat": "59.9483",
+    "sensorId": "XDK",
+    "address": "XUZRLFARKLEVLX9JNRICP9CMRVYSQSVQONBHQDURRXYWXMZ9YGJHFYEAQEYALFH9KYFGYLXTDFDJDETGX",
+    "inactive": true,
+    "dataTypes": [
+      {
+        "id": "temp",
+        "unit": "c",
+        "name": "Temperature"
+      }
+    ],
+    "value": "1805",
+    "lon": "10.7685",
+    "location": {
+      "city": "Oslo",
+      "country": "Norway"
+    },
+    "company": " BI Norwegian Business School",
+    "type": "Weather Station",
+    "createTime": {
+      "_seconds": 1531912101,
+      "_nanoseconds": 637140000
+    }
+  },
+  {
+    "company": "Festo",
+    "type": "Distance sensor",
+    "date": "05 March, 2019 12:23 pm ",
+    "price": 32.594,
+    "lat": 52.3,
+    "sensorId": "SOOE-MS0L-PNLK-T_Testing123",
+    "address": "9IWUKKBWLUHFRSLY9TWBSDGKSCWXHFPRURLBFEKXS9YKFI9INKWYLXWYCXBRETNPGPJHLAFXVUEHRKDUA",
+    "inactive": true,
+    "dataTypes": [
+      {
+        "id": "Distance_ID",
+        "unit": "mm",
+        "name": "Distance"
+      }
+    ],
+    "lon": 4.87,
+    "location": {
+      "city": "Amsterdam",
+      "country": "Netherlands"
+    },
+    "createTime": {
+      "_seconds": 1551785020,
+      "_nanoseconds": 705950000
+    }
+  },
+  {
+    "inactive": false,
+    "dataTypes": [
+      {
+        "name": "Temperature",
+        "id": "temp",
+        "unit": "mC"
+      },
+      {
+        "name": "Relative_humidity",
+        "id": "humi",
+        "unit": "%"
+      },
+      {
+        "name": "Pressure",
+        "id": "pres",
+        "unit": "Pa"
+      },
+      {
+        "id": "illu",
+        "unit": "lux",
+        "name": "Illumination"
+      }
+    ],
+    "value": "1614",
+    "lon": -103.3927516,
+    "location": {
+      "city": "Guadalajara, Jalisco",
+      "country": "Mexico"
+    },
+    "company": "Connectory Guadalajara",
+    "type": "XDK Sensor Indoor Monitoring",
+    "lat": "20.6751803",
+    "sensorId": "1602611",
+    "address": "XA9EXTSYCH9GJMXDDIHPNDNMUAX9WYLSFDPNSIQGFQTYSRQFXYIOPUYSVPRNILBJCGLRZYXYJPSPDEOLA",
+    "createTime": {
+      "_seconds": 1532706619,
+      "_nanoseconds": 211355000
+    },
+    "hasData": true
+  },
+  {
+    "lat": "63.362259",
+    "sensorId": "DNVGLTEST",
+    "address": "GJHAXQZPGTFMW9SZURDTTIT9LRKXPBBQZTPWOXTRRARGDUYKTMWYQFL9FXPKIYNHMBWYTRUZYHUXEEWTX",
+    "inactive": true,
+    "company": "DNV GL",
+    "dataTypes": [
+      {
+        "id": "temp",
+        "unit": "C",
+        "name": "temp"
+      }
+    ],
+    "type": "Temp sensor",
+    "value": "359",
+    "location": {
+      "city": "Trondheim",
+      "country": "Norway"
+    },
+    "lon": "10.371838",
+    "createTime": {
+      "_seconds": 1512997653,
+      "_nanoseconds": 618844000
+    },
+    "hasData": true
+  },
+  {
+    "dataTypes": [
+      {
+        "id": "temp",
+        "unit": "c",
+        "name": "Temperature"
+      },
+      {
+        "name": "Humidity ",
+        "id": "hum",
+        "unit": "g/m3"
+      },
+      {
+        "id": "press",
+        "unit": "bar",
+        "name": "Pressure"
+      }
+    ],
+    "lon": 9.19005811,
+    "location": {
+      "city": "Sonnenbühl",
+      "country": "Germany"
+    },
+    "company": "Private",
+    "type": "Weather Station",
+    "date": "05 January, 2019 23:33 pm ",
+    "price": "1000",
+    "timestamp": 1546727639932,
+    "lat": 48.35207467,
+    "sensorId": "BD-XDK-Weather",
+    "address": "ZYHJDTOVHOIGGFMOJJPRWVQKCTEQESIWWW9QGYBANPAK9UMKBYVCMBOROTMZ9ELYWSUVVUJEEIDXBOHNX",
+    "inactive": false,
+    "createTime": {
+      "_seconds": 1546727659,
+      "_nanoseconds": 503254000
+    },
+    "hasData": true
+  },
+  {
+    "price": "58.230",
+    "location": {
+      "city": "Aachen",
+      "country": "Germany"
+    },
+    "lon": 6.12848,
+    "lat": 50.78022,
+    "sensorId": "XDK-IOTA-DMP-01",
+    "address": "UYYJEMIEBRZXJMSUPLLFTLW9AR9TLHJGNQLDYRGCRYMUZKJXXGANRMSQGMNQQJB9ZBDSAPZOGKOONGHXY",
+    "inactive": false,
+    "company": "Werkzeugmaschinenlabor WZL RWTH Aachen",
+    "dataTypes": [
+      {
+        "id": "temp",
+        "unit": "°C",
+        "name": "Temperature"
+      },
+      {
+        "id": "hum",
+        "unit": "%",
+        "name": "Humidity"
+      },
+      {
+        "name": "Pressure",
+        "id": "pres",
+        "unit": "PA"
+      },
+      {
+        "name": "Light",
+        "id": "li",
+        "unit": "Lux"
+      }
+    ],
+    "type": "Enviromental Machine Data",
+    "createTime": {
+      "_seconds": 1535369393,
+      "_nanoseconds": 441376000
+    },
+    "hasData": true
+  },
+  {
+    "lon": 11.581981,
+    "location": {
+      "country": "Germany",
+      "city": "Munich"
+    },
+    "company": "powsrv.io",
+    "type": "dummy",
+    "date": "13 March, 2019 17:01 pm ",
+    "price": 999,
+    "lat": 48.135125,
+    "sensorId": "PoW by powsrv.io",
+    "address": "KEOHVHAXUISTHQEQTBCKVORZFCTBSMCVGTPOKB9VXHAUWOSU9CQIKQQGHNQXQE9OVIJMXSLXWPTVFFGLC",
+    "inactive": true,
+    "dataTypes": [
+      {
+        "id": "msg",
+        "unit": "",
+        "name": "Message"
+      }
+    ],
+    "createTime": {
+      "_seconds": 1552492898,
+      "_nanoseconds": 838723000
+    },
+    "hasData": true
+  },
+  {
+    "value": "1794",
+    "lon": "103.777628",
+    "location": {
+      "country": "Singapore",
+      "city": "Singapore"
+    },
+    "company": "3for2",
+    "type": "Building Management System",
+    "lat": "1.303300",
+    "sensorId": "3for2_API_feed",
+    "address": "UTNPKAGFSFVTW9YNOEALDXUNFIBYWTTTYSGCJVHXP9MFOOSEWLZBWSBDRIPLEYN9XJVAZIGBQCKSYDJ9A",
+    "inactive": false,
+    "dataTypes": [
+      {
+        "id": "274",
+        "unit": "lph",
+        "name": "ChilledBeamsTotalSystemWaterFlowrate"
+      },
+      {
+        "name": "ChilledBeamsTotalPrimarySystemWaterFlowrate",
+        "id": "303",
+        "unit": "lph"
+      },
+      {
+        "name": "ChilledBeamsTotalPrimarySystemCoolingEnergy",
+        "id": "304",
+        "unit": "W"
+      },
+      {
+        "id": "305",
+        "unit": "C",
+        "name": "ChilledBeamsTotalPrimarySystemWaterSupplyTemp"
+      },
+      {
+        "name": "ChilledBeamsTotalPrimarySystemWaterReturnTemp",
+        "id": "306",
+        "unit": "C"
+      },
+      {
+        "name": "ChilledBeamsTotalSystemWaterFlowrate",
+        "id": "307",
+        "unit": "lph"
+      },
+      {
+        "id": "308",
+        "unit": "W",
+        "name": "ChilledBeamsTotalSystemCoolingEnergy"
+      },
+      {
+        "id": "309",
+        "unit": "C",
+        "name": "ChilledBeamsTotalSystemWaterSupplyTemp"
+      },
+      {
+        "name": "ChilledBeamsTotalSystemWaterReturnTemp",
+        "id": "310",
+        "unit": "C"
+      },
+      {
+        "id": "744",
+        "unit": "ppm",
+        "name": "WeatherStationBlock10CO2"
+      },
+      {
+        "name": "WeatherStationBlock10RelativeHumidity",
+        "id": "745",
+        "unit": "perc"
+      },
+      {
+        "id": "746",
+        "unit": "bool",
+        "name": "WeatherStationBlock10RainDet"
+      },
+      {
+        "name": "WeatherStationBlock10SolarRadiation",
+        "id": "747",
+        "unit": "Wpsqm"
+      },
+      {
+        "name": "WeatherStationBlock10AirTemp",
+        "id": "748",
+        "unit": "C"
+      },
+      {
+        "id": "749",
+        "unit": "C",
+        "name": "WeatherStationBlock10AirTemp2"
+      },
+      {
+        "name": "WeatherStationBlock3CO2",
+        "id": "750",
+        "unit": "ppm"
+      },
+      {
+        "id": "751",
+        "unit": "bool",
+        "name": "WeatherStationBlock3RelativeHumidity"
+      },
+      {
+        "name": "WeatherStationBlock3RainDet",
+        "id": "752",
+        "unit": "Wpsqm"
+      },
+      {
+        "id": "753",
+        "unit": "",
+        "name": "WeatherStationBlock3SolarRadiation"
+      },
+      {
+        "name": "WeatherStationBlock3AirTemp",
+        "id": "754",
+        "unit": "C"
+      },
+      {
+        "id": "755",
+        "unit": "C",
+        "name": "WeatherStationBlock3AirTemp"
+      }
+    ],
+    "createTime": {
+      "_seconds": 1517638866,
+      "_nanoseconds": 883744000
+    },
+    "hasData": true
+  },
+  {
+    "lon": 9.586978,
+    "location": {
+      "country": "Germany",
+      "city": "Kressbronn"
+    },
+    "data": "11 March, 2019 16:20 am",
+    "company": "ifm electronic gmbh",
+    "type": "IoLink-Master",
+    "price": "5000",
+    "lat": 47.602264,
+    "sensorId": "AL-1322",
+    "address": "WZCUVCFZZAYGU9UIEKQUBWWDPGGPIKGAWYYO9AVQDNVQYHJT9JRD9UCMQEBDUCFQSSIFOOBHTCLCYFLAC",
+    "inactive": false,
+    "dataTypes": [
+      {
+        "name": "Temperature",
+        "id": "temp",
+        "unit": "C"
+      },
+      {
+        "id": "encod",
+        "unit": "hex",
+        "name": "Encoder"
+      }
+    ],
+    "createTime": {
+      "_seconds": 1552405305,
+      "_nanoseconds": 980955000
+    },
+    "hasData": true
+  },
+  {
+    "lat": -23.533773,
+    "sensorId": "XDK2MAM-CPBR-1",
+    "address": "TERAZATSSFONQTRB9UWDUQY9IXFKLZJPAMMRHHONNEVFXXMWOAKJIFAVCCWGZAECPT9UVYKAVCDIAGMFX",
+    "inactive": true,
+    "dataTypes": [
+      {
+        "name": "Temperature",
+        "id": "temp",
+        "unit": "° mC"
+      },
+      {
+        "id": "hum",
+        "unit": "Hg",
+        "name": "Humidity"
+      },
+      {
+        "id": "press",
+        "unit": "Pa",
+        "name": "Pressure"
+      }
+    ],
+    "lon": -46.62529,
+    "location": {
+      "country": "Brasil",
+      "city": "Sao Paulo"
+    },
+    "company": "XDK2MAM",
+    "type": "xdk110",
+    "date": "11 February, 2019 18:03 pm ",
+    "price": "10",
+    "timestamp": 1549919003510,
+    "createTime": {
+      "_seconds": 1549919023,
+      "_nanoseconds": 83667000
+    },
+    "hasData": true
+  },
+  {
+    "value": 58.23,
+    "location": {
+      "city": "Kristiansand",
+      "country": "Norway"
+    },
+    "lon": "8.002028",
+    "lat": "58.153635",
+    "sensorId": "KRSNORWAY2",
+    "address": "ZJLELVWKOHOBMMGFMECRYSKEIQRLCUWP9TXDLWYDFCEUKSWDVLYGR9VTJRSZZFBFSIOZEUS9TNTVGCPX9",
+    "inactive": true,
+    "company": "Contoso",
+    "dataTypes": [
+      {
+        "id": "count",
+        "unit": "",
+        "name": "count"
+      },
+      {
+        "id": "poll",
+        "unit": "ppm",
+        "name": "poll"
+      },
+      {
+        "name": "press",
+        "id": "press",
+        "unit": "bar"
+      },
+      {
+        "id": "temp",
+        "unit": "c",
+        "name": "temp"
+      }
+    ],
+    "type": "IOT Sensor II",
+    "createTime": {
+      "_seconds": 1510837579,
+      "_nanoseconds": 239821000
+    },
+    "hasData": true
+  },
+  {
+    "inactive": true,
+    "company": "Contoso",
+    "dataTypes": [
+      {
+        "name": "Count",
+        "id": "Count",
+        "unit": ""
+      },
+      {
+        "id": "temp",
+        "unit": "c",
+        "name": "Temperature"
+      },
+      {
+        "name": "Pollution",
+        "id": "poll",
+        "unit": "ppm"
+      },
+      {
+        "name": "Pressure",
+        "id": "pres",
+        "unit": "psi"
+      }
+    ],
+    "type": "IOT Sensor",
+    "value": 18.230,
+    "location": {
+      "city": "Kristiansand",
+      "country": "Norway"
+    },
+    "lon": "8.002028",
+    "lat": "58.153635",
+    "sensorId": "KRSNORWAY",
+    "address": "OHPDFLLSTSXWHHGPROZJTRJWYWFCLCJSDGBXXHNQ9LNONEFUSVSPJGAZENZFCHAVIELQOQOLUPGOSDJEC",
+    "createTime": {
+      "_seconds": 1510834591,
+      "_nanoseconds": 952599000
+    },
+    "hasData": true
+  },
+  {
+    "inactive": false,
+    "company": "Laboratory for Machine Tools and Production Engineering (WZL) of RWTH Aachen University",
+    "dataTypes": [
+      {
+        "id": "temp",
+        "unit": "°C",
+        "name": "Temperature"
+      },
+      {
+        "name": "Humidity",
+        "id": "hum",
+        "unit": "%"
+      },
+      {
+        "id": "pres",
+        "unit": "PA",
+        "name": "Pressure"
+      },
+      {
+        "name": "Light",
+        "id": "li",
+        "unit": "Lux"
+      }
+    ],
+    "type": "Enviromental Machine Data",
+    "price": "58.23",
+    "location": {
+      "city": "Aachen",
+      "country": "Germany"
+    },
+    "lon": 6.12848,
+    "lat": 50.78022,
+    "sensorId": "XDK-IOTA-DMP-02",
+    "address": "MGDCQKTZOHSXRWPEYIENCARMNDMJAQKFRTOUGXQSVFUOSRZWAD9EOHYNPRRUCBPDVNMCHBFDYXGF9SCV9",
+    "createTime": {
+      "_seconds": 1535461369,
+      "_nanoseconds": 988065000
+    },
+    "hasData": true
+  },
+  {
+    "inactive": false,
+    "company": "Laboratory for Machine Tools and Production Engineering (WZL) of RWTH Aachen University",
+    "dataTypes": [
+      {
+        "name": "Temperature",
+        "id": "temp",
+        "unit": "°C"
+      },
+      {
+        "id": "hum",
+        "unit": "%",
+        "name": "Humidity"
+      },
+      {
+        "name": "Pressure",
+        "id": "pres",
+        "unit": "PA"
+      },
+      {
+        "name": "Light",
+        "id": "li",
+        "unit": "Lux"
+      }
+    ],
+    "type": "Environmental Machine Data",
+    "price": "58.23",
+    "location": {
+      "country": "Germany",
+      "city": "Aachen"
+    },
+    "lon": 6.12848,
+    "lat": 50.78022,
+    "sensorId": "XDK-IOTA-DMP-03",
+    "address": "QWYQ9QDZM9YE9GXU9CYKYMTQQTUOCVHFNMKBFDGNNQEDIDBOZMKWDTXEZJRRCOZQWJDWHNYSGIJHRTRED",
+    "createTime": {
+      "_seconds": 1535461532,
+      "_nanoseconds": 222270000
+    },
+    "hasData": true
+  },
+  {
+    "timestamp": 1543153460543,
+    "lat": 45.580364,
+    "sensorId": "XDK-Silkwood",
+    "address": "LCKOBLVZXCWJWKIBXOQLMQLYDKAXBKODSHNFWXFHUAPKSXFFNB9RPWPHLHGZDTQMDSWCEIGKJPXPRHB9W",
+    "inactive": true,
+    "dataTypes": [
+      {
+        "id": "temp",
+        "unit": "C°",
+        "name": "Temperature"
+      },
+      {
+        "id": "press",
+        "unit": "Bar",
+        "name": "Pressure"
+      },
+      {
+        "name": "Humidity",
+        "id": "hum",
+        "unit": "%"
+      },
+      {
+        "id": "light",
+        "unit": "Lx",
+        "name": "Lumen"
+      }
+    ],
+    "lon": 9.463017,
+    "location": {
+      "city": "Basiano",
+      "country": "Italia"
+    },
+    "company": "Valerio Pelliccioni",
+    "type": "Sensor Station",
+    "date": "25 November, 2018 14:44 pm ",
+    "price": "2000",
+    "createTime": {
+      "_seconds": 1543153485,
+      "_nanoseconds": 932236000
+    },
+    "hasData": true
+  },
+  {
+    "lon": 13.390300000000025,
+    "location": {
+      "city": "Berlin",
+      "country": "Germany"
+    },
+    "company": "Private",
+    "type": "Arduino",
+    "date": "21 May, 2019 12:51 pm ",
+    "price": 1000,
+    "lat": 52.5075,
+    "sensorId": "X-BergWeather",
+    "address": "CEZXWG9FXAOHGEJO9FOMBPCPYJVYFINHPUKDUUCXGBBARQTCPEAXLCCAPWILYX9KIQFJOVTUOHGM99XAW",
+    "inactive": true,
+    "dataTypes": [
+      {
+        "name": "Temperatur",
+        "id": "Temp",
+        "unit": "C"
+      }
+    ],
+    "createTime": {
+      "_seconds": 1558435907,
+      "_nanoseconds": 842918000
+    },
+    "hasData": true
+  },
+  {
+    "dataTypes": [
+      {
+        "name": "media type",
+        "id": "type",
+        "unit": ""
+      },
+      {
+        "id": "artist",
+        "unit": "",
+        "name": "artist"
+      },
+      {
+        "id": "album",
+        "unit": "",
+        "name": "album"
+      },
+      {
+        "name": "year",
+        "id": "year",
+        "unit": ""
+      },
+      {
+        "name": "title",
+        "id": "title",
+        "unit": ""
+      }
+    ],
+    "type": "Kodi media center",
+    "value": "350",
+    "location": {
+      "country": "France",
+      "city": "Grenoble"
+    },
+    "lon": "5.831260",
+    "lat": "45.246065",
+    "sensorId": "Aorange-kodiFranck",
+    "address": "CXJUD9HPORL9LZMVXAJWIKJTYBJTHULYVVGTNOSXLF9OHVOFLGIZEKYHOQMZFKYZNHXSFQLFUUZJZUUSA",
+    "company": "Orange",
+    "createTime": {
+      "_seconds": 1514042542,
+      "_nanoseconds": 748376000
+    },
+    "hasData": true
+  },
+  {
+    "lat": "53.201693",
+    "sensorId": "PuckJS001",
+    "address": "IFVPAXKJUXBUBSVPDEXD9HG9KOXTRDAVAMGKSSURCOWYFTWCVETETCKCVHKVMYTDBDCEEN99DJ9WXKQE9",
+    "inactive": false,
+    "dataTypes": [
+      {
+        "name": "lightSensor",
+        "id": "Light",
+        "unit": "lux"
+      }
+    ],
+    "value": "1385",
+    "lon": "6.550474",
+    "location": {
+      "city": "Groningen",
+      "country": "the Netherlands"
+    },
+    "company": "Gasunie",
+    "type": "PuckJS",
+    "createTime": {
+      "_seconds": 1523086381,
+      "_nanoseconds": 349155000
+    },
+    "hasData": true
+  },
+  {
+    "lat": 35.2271,
+    "sensorId": "Thingy52-CLT",
+    "address": "YMGHQT9C9DTWLUQAZMZJFPSWLCSLBNMEIGZYRULYYJFNXYLHJWB9V9BDDT9PJNEULUHAMRGRUEKNZ9NWB",
+    "inactive": true,
+    "dataTypes": [
+      {
+        "id": "temperature",
+        "unit": "",
+        "name": "Temperature"
+      },
+      {
+        "id": "humidity",
+        "unit": "%",
+        "name": "Humidity"
+      },
+      {
+        "name": "\tPressure",
+        "id": "pressure",
+        "unit": "hPa"
+      },
+      {
+        "id": "co2",
+        "unit": "ppm",
+        "name": "CO2"
+      },
+      {
+        "id": "voc",
+        "unit": "ppb",
+        "name": "VOC"
+      }
+    ],
+    "lon": 80.8431,
+    "location": {
+      "country": "USA",
+      "city": "Charlotte"
+    },
+    "company": "Private",
+    "type": "Weather Station",
+    "date": "04 June, 2019 16:04 pm ",
+    "price": 500,
+    "createTime": {
+      "_seconds": 1559678715,
+      "_nanoseconds": 596421000
+    },
+    "hasData": true
+  },
+  {
+    "company": "ZeMA gGmbH",
+    "type": "Sensor Development Kit",
+    "date": "08 April, 2019 14:17 pm ",
+    "price": 1000,
+    "lat": 49.228875,
+    "sensorId": "Bosch XDK 01",
+    "address": "QPDZDTKHBCLRXTRTMXFTUSTTWRKREVO9MBMAQCSGGLHEWMHTRGMMPNRT9FLFZSGNLSFLPYEGKGXVLZUDX",
+    "inactive": true,
+    "dataTypes": [
+      {
+        "name": "temperature",
+        "id": "temp",
+        "unit": "c"
+      },
+      {
+        "name": "pressure",
+        "id": "press",
+        "unit": "P"
+      },
+      {
+        "name": "humidity",
+        "id": "hum",
+        "unit": "H"
+      },
+      {
+        "id": "lux",
+        "unit": "lux",
+        "name": "light"
+      }
+    ],
+    "lon": 7.030715,
+    "location": {
+      "country": "Germany",
+      "city": "Saarbrücken"
+    },
+    "createTime": {
+      "_seconds": 1554733148,
+      "_nanoseconds": 217678000
+    },
+    "hasData": true
+  },
+  {
+    "lat": "34.0201366",
+    "sensorId": "CCI-IoT-Device-002",
+    "address": "HHPLBLHYUHQSXCTHATBJGGZVRYDBZHJLCOCTHZQLFFGNFQMNPOJQO99QBQVCSEZFSLBHOKCYLXQEANJQ9",
+    "inactive": false,
+    "dataTypes": [
+      {
+        "id": "temp",
+        "unit": "degC",
+        "name": "Temperature"
+      },
+      {
+        "name": "Humidity",
+        "id": "hum",
+        "unit": "RH%"
+      }
+    ],
+    "value": "1103",
+    "lon": -118.2899257,
+    "location": {
+      "city": "Los Angeles",
+      "country": "USA"
+    },
+    "company": "Center for Cyber Physical Systems and the Internet of Things, USC",
+    "type": "WeatherStation",
+    "createTime": {
+      "_seconds": 1528598691,
+      "_nanoseconds": 571849000
+    },
+    "hasData": true
+  },
+  {
+    "lat": "52.524368",
+    "sensorId": "LAB1886-weather",
+    "address": "FFD9OG99VSTQNGOHKPTLQRRVL9VXIEZBTZKJBCHXSVRDKSSFGCRYRTSWEBYWUAUGJMQMGX9JOTIMAZSCX",
+    "company": "LAB1886 GmbH",
+    "dataTypes": [
+      {
+        "name": "Temperature",
+        "id": "temp",
+        "unit": "Kelvin"
+      },
+      {
+        "id": "pressure",
+        "unit": "hPa",
+        "name": "Atmospheric pressure"
+      },
+      {
+        "id": "humidity",
+        "unit": "%",
+        "name": "Humidity"
+      },
+      {
+        "name": "Temperature Min",
+        "id": "temp_min",
+        "unit": "Kelvin"
+      },
+      {
+        "id": "temp_max",
+        "unit": "Kelvin",
+        "name": "Temperature Max"
+      }
+    ],
+    "type": "Weather Station",
+    "value": 302391,
+    "location": {
+      "city": "Berlin",
+      "country": "Germany"
+    },
+    "lon": "13.41053",
+    "createTime": {
+      "_seconds": 1510330695,
+      "_nanoseconds": 790548000
+    },
+    "hasData": true
+  },
+  {
+    "lat": "51.412827",
+    "sensorId": "PHILIPS_pcDuino",
+    "address": "GJUWDSSZALUFBBGOILZDKIOWPJZLEOYFUUMRDLQDNEF9LMKXHZBSWPJEYE9WBY9GAWKMYQXZLVAHYXOEA",
+    "inactive": true,
+    "dataTypes": [
+      {
+        "name": "Temperature",
+        "id": "temp",
+        "unit": "c"
+      }
+    ],
+    "value": "1514",
+    "lon": "5.459603",
+    "location": {
+      "city": "Eindhoven",
+      "country": "The Netherlands"
+    },
+    "company": "Philips",
+    "type": "pcDuino with t",
+    "createTime": {
+      "_seconds": 1517763725,
+      "_nanoseconds": 906452000
+    },
+    "hasData": true
+  },
+  {
+    "address": "UI9VFICVR9B9QDGBAUSUKCSCONEPQAJMKY9TYEUWVOWTNUWQ9MEBPRNPGGMRVAOKOOHIFQNPZLYEBQBSD",
+    "inactive": true,
+    "dataTypes": [
+      {
+        "name": "Temperature",
+        "id": "temp",
+        "unit": "c"
+      }
+    ],
+    "lon": 10.754560500000025,
+    "location": {
+      "country": "Norway",
+      "city": "Oslo"
+    },
+    "company": "Entra ASA",
+    "type": "Weather station",
+    "date": "06 November, 2018 15:24 pm ",
+    "price": "18.23",
+    "timestamp": 1541514288730,
+    "lat": 59.9115663,
+    "sensorId": "BG14_temp",
+    "createTime": {
+      "_seconds": 1541514310,
+      "_nanoseconds": 582570000
+    },
+    "hasData": true
+  },
+  {
+    "value": "295",
+    "location": {
+      "city": "Rivoli (TO)",
+      "country": "Italy"
+    },
+    "lon": "7.5176",
+    "lat": "45.0770",
+    "sensorId": "BerryPi_RuuviTag",
+    "address": "FYBFREIXCMQKKBJEUMRMJPEYBCL9GWPILQIHFYCRHEEAYIGWVBGCFBKFTSHTVPZIGAVMQWYFZQRAYNKCA",
+    "company": "france193",
+    "dataTypes": [
+      {
+        "name": "Temperature",
+        "id": "temperature",
+        "unit": "C°"
+      },
+      {
+        "name": "Pressure",
+        "id": "pressure",
+        "unit": "hPa"
+      },
+      {
+        "name": "Humidity",
+        "id": "humidity",
+        "unit": "RH-%"
+      },
+      {
+        "id": "battery_volt",
+        "unit": "mV",
+        "name": "Battery"
+      },
+      {
+        "id": "battery_perc",
+        "unit": "%",
+        "name": "Battery %"
+      },
+      {
+        "name": "Acceleration X",
+        "id": "accel_x",
+        "unit": "g"
+      },
+      {
+        "name": "Acceleration Y",
+        "id": "accel_y",
+        "unit": "g"
+      },
+      {
+        "name": "Acceleration Z",
+        "id": "accel_z",
+        "unit": "g"
+      }
+    ],
+    "type": "Weather Station",
+    "createTime": {
+      "_seconds": 1513194686,
+      "_nanoseconds": 916585000
+    },
+    "hasData": true
+  },
+  {
+    "location": {
+      "city": "Arnhem",
+      "country": "The Netherlands"
+    },
+    "lon": "5.870506",
+    "lat": "51.984141",
+    "sensorId": "ElaadNL-AL911",
+    "address": "DCPRLQXDHVIZIIATWIFDZADUNFCQXKRTMNG9RHFTNTAOSDWQB9QTJEBLGIOIUNVWLTGWFFXDFFQNGEVPW",
+    "inactive": true,
+    "company": "ElaadNL",
+    "dataTypes": [
+      {
+        "name": "Status",
+        "id": "status",
+        "unit": ""
+      }
+    ],
+    "type": "Charging Station",
+    "value": "352",
+    "createTime": {
+      "_seconds": 1512382543,
+      "_nanoseconds": 181897000
+    },
+    "hasData": true
+  },
+  {
+    "company": "Private",
+    "type": "Multisensors Station",
+    "date": "27 February, 2019 12:21 pm ",
+    "price": 28.23,
+    "lat": 45.580106,
+    "sensorId": "Silkwood-Sensor",
+    "address": "KDRNXYCZVCGVAKYBQPD9HUVWBR9XYZZH9HXGAFNYRBTYKXMINNBHIJPPXUJEOYSB9CCSQHMECILGTUHGW",
+    "inactive": false,
+    "dataTypes": [
+      {
+        "name": "Temperature",
+        "id": "temp",
+        "unit": "°C"
+      },
+      {
+        "id": "hum",
+        "unit": "Hr",
+        "name": "Humidity"
+      },
+      {
+        "name": "Pressure",
+        "id": "press",
+        "unit": "Pa"
+      },
+      {
+        "name": "Millilux",
+        "id": "light",
+        "unit": "lumen"
+      }
+    ],
+    "lon": 9.472053,
+    "location": {
+      "city": "Basiano",
+      "country": "Italy"
+    },
+    "createTime": {
+      "_seconds": 1551266533,
+      "_nanoseconds": 876295000
+    },
+    "hasData": true
+  },
+  {
+    "location": {
+      "city": "Amsterdam",
+      "country": "The Netherlands"
+    },
+    "lon": "4.891377",
+    "lat": "52.373184",
+    "sensorId": "IOTAMeetupNL-Temp",
+    "address": "ZTVOEXKHAZUHPBFDGEUGQBMMHZLNNGLSFOHUAZSMJVX9ZX9ZJGMDBZZ9HCZS99XE99CDEKF9AYLCJVXDX",
+    "inactive": true,
+    "company": "IOTAMeetupNL",
+    "dataTypes": [
+      {
+        "name": "Temperature",
+        "id": "temp",
+        "unit": "c"
+      }
+    ],
+    "type": "Temperature Sensor",
+    "value": "338",
+    "createTime": {
+      "_seconds": 1512652213,
+      "_nanoseconds": 355376000
+    },
+    "hasData": true
+  },
+  {
+    "lat": "37.9471671",
+    "sensorId": "Macway",
+    "address": "LIRDMQCHZVBMSUUCZRXRICMRQENLIQYAFG9TPSNJ9RSP9AIOBGASHCVIIEO9GPCUJSGJT9YJKMHNKFKRW",
+    "inactive": true,
+    "dataTypes": [
+      {
+        "id": "temperature",
+        "unit": "C",
+        "name": "Temperature"
+      },
+      null,
+      {
+        "name": "Humidity",
+        "id": "humidity",
+        "unit": "%"
+      },
+      {
+        "name": "CO2",
+        "id": "co2",
+        "unit": "ppm"
+      },
+      {
+        "id": "voc",
+        "unit": "ppb",
+        "name": "VOC"
+      }
+    ],
+    "type": "Nordic Thingy:52",
+    "value": "1",
+    "location": {
+      "city": "Athens",
+      "country": "Greece"
+    },
+    "lon": "23.7386217",
+    "createTime": {
+      "_seconds": 1530722998,
+      "_nanoseconds": 105854000
+    },
+    "hasData": true
+  },
+  {
+    "lat": "34.0201366",
+    "sensorId": "CCI-IoT-Device-001",
+    "address": "NRUIQ9IJHIRIUOWDADT9KQSEXACFUJGYMHCTBVDXIWIBQJYTTSWBDCJSPXYVUOSWOZVIICPMRTCHHURMY",
+    "inactive": false,
+    "dataTypes": [
+      {
+        "id": "temp",
+        "unit": "c",
+        "name": "Temperature"
+      },
+      {
+        "id": "",
+        "unit": "",
+        "name": ""
+      }
+    ],
+    "value": "1278",
+    "lon": -118.2899257,
+    "location": {
+      "city": "Los Angeles",
+      "country": "USA"
+    },
+    "company": "University of Southern California",
+    "type": "Weather Station",
+    "createTime": {
+      "_seconds": 1528591346,
+      "_nanoseconds": 386544000
+    },
+    "hasData": true
+  },
+  {
+    "dataTypes": [
+      {
+        "id": "batteryPower",
+        "unit": "kW",
+        "name": "Battery"
+      },
+      {
+        "name": "Boiler",
+        "id": "boilerPower",
+        "unit": "kW"
+      },
+      {
+        "id": "carchargerPower",
+        "unit": "kW",
+        "name": "EV Charging Station"
+      },
+      {
+        "name": "Heatpump",
+        "id": "heatpumpPower",
+        "unit": "kW"
+      },
+      {
+        "id": "photovoltaicPower",
+        "unit": "kW",
+        "name": "Photovoltaic"
+      },
+      {
+        "name": "Battery SOC",
+        "id": "batterySOC",
+        "unit": "kWh"
+      },
+      {
+        "name": "Voltage",
+        "id": "voltage",
+        "unit": "V"
+      }
+    ],
+    "type": "Home Energy Management System",
+    "value": "294",
+    "location": {
+      "city": "Zürich",
+      "country": "Switzerland"
+    },
+    "lon": "8.5401528",
+    "lat": "47.3725401",
+    "sensorId": "GridSenseUnit-001",
+    "address": "UABDAOMVXLH9OGJPJNEZTXQDTMDREJWMBKSBNLZYRPULEYZXXAXGGVYKKGUUTUXDGDBECVEVDALKPPVL9",
+    "company": "InnoSense AG",
+    "createTime": {
+      "_seconds": 1512571448,
+      "_nanoseconds": 638100000
+    },
+    "hasData": true
+  },
+  {
+    "type": "adelosriDevice",
+    "lat": "6.2334165",
+    "sensorId": "EPM07",
+    "address": "DNP9WUJLLBVZYTIJVNAXHDGVCGPWJRRILPDYKGEEMERCHBBNAUFFYWUSPOEZXK9VLPZ9MNNWIGUYQEZH9",
+    "inactive": true,
+    "dataTypes": [
+      {
+        "id": "temp",
+        "unit": "C",
+        "name": "Temperature"
+      }
+    ],
+    "value": "1829",
+    "lon": -75.5923887,
+    "location": {
+      "country": "Colombia",
+      "city": "Medellín"
+    },
+    "company": "Empresas Publicas de Medellin",
+    "createTime": {
+      "_seconds": 1516941485,
+      "_nanoseconds": 747986000
+    },
+    "hasData": true
+  },
+  {
+    "lon": "6.47833",
+    "location": {
+      "city": "Bovensmilde",
+      "country": "the Netherlands"
+    },
+    "company": "Gasunie",
+    "type": "SmartEnergyTracker",
+    "lat": "52.98007",
+    "sensorId": "SlimmeMeter-Bovensmilde",
+    "address": "ZSZHWDO9FD9NDNEDLAEM9HFRVAFSHCNICLAMDBSKRVOOEWHKKDHJYSJQWXVMOVCSBYSUOHXHKVMOOWALZ",
+    "inactive": false,
+    "dataTypes": [
+      {
+        "id": "usage",
+        "unit": "KW/h",
+        "name": "Energy usage"
+      },
+      {
+        "id": "piekTarief",
+        "unit": "euro",
+        "name": "Peak cost"
+      },
+      {
+        "name": "Off peak cost",
+        "id": "dalTarief",
+        "unit": "euro"
+      }
+    ],
+    "value": "1028",
+    "createTime": {
+      "_seconds": 1525248943,
+      "_nanoseconds": 427141000
+    },
+    "hasData": true
+  },
+  {
+    "price": "58.23",
+    "location": {
+      "city": "Aachen",
+      "country": "Germany"
+    },
+    "lon": 6.12848,
+    "lat": 50.78022,
+    "sensorId": "WZL-IOTA-XDK-DMP-01",
+    "address": "DQALBVSSAG9OFHG9XWNMEJXZTAZAZRXHNZGTGAZKDOXBVBKBJJLMFWFFOEFVVUGVVGUAN9TFXZBCMWUVD",
+    "inactive": false,
+    "company": "Industrial IOTA Lab Aachen",
+    "dataTypes": [
+      {
+        "name": "Temperature",
+        "id": "temp",
+        "unit": "°C"
+      },
+      {
+        "name": "Humidity",
+        "id": "hum",
+        "unit": "%"
+      },
+      {
+        "id": "pres",
+        "unit": "PA",
+        "name": "Pressure"
+      },
+      {
+        "id": "li",
+        "unit": "Lux",
+        "name": "Light"
+      }
+    ],
+    "type": "Environmental Machine Data",
+    "createTime": {
+      "_seconds": 1535640877,
+      "_nanoseconds": 982829000
+    },
+    "hasData": true
+  },
+  {
+    "address": "BPKNDEPJWXLEBILTGXJ9GMEFSSDCQCSTZOMHWVXKONQTJO9ZT9DVVDGQWJMVDHPRYPCIEYFETTFJNQSLD",
+    "inactive": true,
+    "dataTypes": [
+      {
+        "id": "ndvi",
+        "unit": "index",
+        "name": "NDVI"
+      }
+    ],
+    "lon": 19.364187,
+    "location": {
+      "city": "Gödöllő",
+      "country": "Hungary"
+    },
+    "company": "CropOM",
+    "type": "NDVI Sensor",
+    "date": "02 March, 2019 22:58 pm ",
+    "price": 12.134,
+    "lat": 47.599354,
+    "sensorId": "CropOM-Test-2",
+    "createTime": {
+      "_seconds": 1551563895,
+      "_nanoseconds": 608870000
+    },
+    "hasData": true
+  },
+  {
+    "company": "Industrial IOTA Lab Aachen",
+    "dataTypes": [
+      {
+        "id": "temp",
+        "unit": "°C",
+        "name": "Temperature"
+      },
+      {
+        "id": "hum",
+        "unit": "%",
+        "name": "Humidity"
+      },
+      {
+        "id": "pres",
+        "unit": "PA",
+        "name": "Pressure"
+      },
+      {
+        "name": "Light",
+        "id": "li",
+        "unit": "Lux"
+      }
+    ],
+    "type": "Environmental Machine Data",
+    "price": "58.23",
+    "location": {
+      "city": "Aachen",
+      "country": "Germany"
+    },
+    "lon": 6.12848,
+    "lat": 50.78022,
+    "sensorId": "WZL-IOTA-XDK-DMP-02",
+    "address": "QXQRDXBFSRFGYAVHNRKCOREFP9LCFLQXPEETRZIHKCJRKOLVOCFHHVQWHA99EOCNXIKXYPDFAFGKPAH9B",
+    "inactive": false,
+    "createTime": {
+      "_seconds": 1535640786,
+      "_nanoseconds": 789612000
+    },
+    "hasData": true
+  },
+  {
+    "location": {
+      "country": "Italy",
+      "city": "Rivoli (TO)"
+    },
+    "lon": "7.517714",
+    "lat": "45.077459",
+    "sensorId": "BerryPi_temp102",
+    "address": "YJNQ9EQWSXUMLFCIUZDCAJZSAXUQNZSY9AKKVYKKFBAAHRSTKSHUOCCFTQVPPASPGGC9YGNLDQNOUWCAW",
+    "company": "france193",
+    "dataTypes": [
+      {
+        "name": "Temperature",
+        "id": "temp",
+        "unit": "Celsius"
+      }
+    ],
+    "type": "Temperature",
+    "value": 90350,
+    "createTime": {
+      "_seconds": 1510311900,
+      "_nanoseconds": 714899000
+    },
+    "hasData": true
+  },
+  {
+    "location": {
+      "city": "Rotterdam",
+      "country": "The Netherlands "
+    },
+    "lon": "4.4680470786988735",
+    "lat": "51.92286493527221",
+    "sensorId": "RaspberryPi",
+    "address": "SFMONUAZBDSCBKCVX9JRVCLUGEULRIWVT9SKZQZMABWTBFESNKKFHJAXLDQQCAGYTUUBCYZIUEBHYJRGD",
+    "inactive": true,
+    "company": "Blocklab",
+    "dataTypes": [
+      {
+        "name": "Temperature",
+        "id": "temp",
+        "unit": "c"
+      }
+    ],
+    "type": "Weather Station",
+    "value": 871911,
+    "createTime": {
+      "_seconds": 1510158108,
+      "_nanoseconds": 529814000
+    },
+    "hasData": true
+  },
+  {
+    "location": {
+      "city": "Aachen",
+      "country": "Germany"
+    },
+    "lon": 6.12848,
+    "lat": 50.78022,
+    "sensorId": "WZL-IOTA-XDK-DMP-03",
+    "address": "BVOETXREQQYMMNCUFWGOLGYCFSCPYCGALGYKPHJAHOTUZIBPBEKDKQUJXXORIZFVYIXKJXMFXXEYKBAUX",
+    "inactive": false,
+    "company": "Industrial IOTA Lab Aachen",
+    "dataTypes": [
+      {
+        "id": "temp",
+        "unit": "°C",
+        "name": "Temperature"
+      },
+      {
+        "name": "Humidity",
+        "id": "hum",
+        "unit": "%"
+      },
+      {
+        "id": "pres",
+        "unit": "PA",
+        "name": "Pressure"
+      },
+      {
+        "name": "Light",
+        "id": "li",
+        "unit": "Lux"
+      }
+    ],
+    "type": "Environmental Machine Data",
+    "price": "58.23",
+    "createTime": {
+      "_seconds": 1535640676,
+      "_nanoseconds": 62210000
+    },
+    "hasData": true
+  },
+  {
+    "company": "http://lass-net.org",
+    "type": "Air Quality Sensors",
+    "lat": "23.43",
+    "sensorId": "LASS_PM25_SENSOR",
+    "address": "HHZKB9KDZKBPRMJUNFJCGBCJSJVFVGEGQWRUESRXEGHFRFYZFRCHWWEWHTSXCHB9QVULOETAYVLSKQRE9",
+    "inactive": true,
+    "dataTypes": [
+      {
+        "id": "pm25001",
+        "unit": "μg/m3",
+        "name": "pm25"
+      }
+    ],
+    "value": "1866",
+    "lon": "120.40",
+    "location": {
+      "city": "Taipei",
+      "country": "Taiwan"
+    },
+    "createTime": {
+      "_seconds": 1519648030,
+      "_nanoseconds": 505962000
+    },
+    "hasData": true
+  },
+  {
+    "lat": "59.344707",
+    "sensorId": "MPCRacing-PI",
+    "address": "QCSCIY9XHGJZBMGIBETMVIUIUECACRGVONMKGSMXLNSFUQIVNQPL9MHTELAHKYFTCPEGOZHRTSHLBSVDY",
+    "inactive": true,
+    "dataTypes": [
+      {
+        "id": "Temp",
+        "unit": "C",
+        "name": "Temperature"
+      },
+      {
+        "name": "Pressure",
+        "id": "Pressure",
+        "unit": "inHg"
+      },
+      {
+        "name": "Humidity",
+        "id": "Humidity",
+        "unit": "%"
+      }
+    ],
+    "type": "PI Weather Station",
+    "value": "312",
+    "location": {
+      "country": "Norway",
+      "city": "Råde"
+    },
+    "lon": "10.934013700000037",
+    "createTime": {
+      "_seconds": 1516120422,
+      "_nanoseconds": 836146000
+    },
+    "hasData": true
+  },
+  {
+    "inactive": true,
+    "company": "Unknown",
+    "dataTypes": [
+      
+    ],
+    "type": "Weather station",
+    "value": "282",
+    "location": {
+      "country": "France",
+      "city": "Grenoble"
+    },
+    "lon": "50",
+    "lat": "12",
+    "sensorId": "Gway-DIP-01-BVE",
+    "address": "RYDZSQGWRPUPYJDKZZEGZETCCMSYFJASSLFJSDJPEHXE9XZBKXIMP9O9HHGUL9NVQZANCJQZGT9JUUDBA",
+    "createTime": {
+      "_seconds": 1513072500,
+      "_nanoseconds": 174679000
+    },
+    "hasData": true
+  },
+  {
+    "value": "268",
+    "location": {
+      "city": "Espoo",
+      "country": "Finland"
+    },
+    "lon": "24.668261",
+    "lat": "60.200272",
+    "sensorId": "RuuviTag_Espoo",
+    "address": "KUGKMQPB9YRDMBGISZWJSQQISSTEIKE9BT9LWFMQFHJVWQBCRVRQYYO9AAOGPAFXTCTAHUVAKXDMLPCZA",
+    "inactive": true,
+    "company": "Ruuvi Innovations",
+    "dataTypes": [
+      {
+        "id": "temperature",
+        "unit": "°C",
+        "name": "Temperature"
+      },
+      {
+        "name": "Humidity",
+        "id": "humidity",
+        "unit": "RH-%"
+      },
+      {
+        "id": "pressure",
+        "unit": "Pa",
+        "name": "Air Pressure"
+      },
+      {
+        "name": "Battery Voltage",
+        "id": "battery",
+        "unit": "mV"
+      }
+    ],
+    "type": "Weather Station",
+    "createTime": {
+      "_seconds": 1511871208,
+      "_nanoseconds": 642732000
+    },
+    "hasData": true
+  },
+  {
+    "lon": "5.459",
+    "location": {
+      "city": "Eindhoven",
+      "country": "Netherlands"
+    },
+    "company": "Philips Research",
+    "type": "Temperature Sensor",
+    "lat": "51.412",
+    "sensorId": "PHILIPS_pc_Duino_TempSensor",
+    "address": "NILHJKCKKDJLQPUPAWMLDQCTCJ9GYZSNXVRNGUSRAIQALTZYLGRGMBDQXQYNDBMVXGNCRLYVKTMEVQAW9",
+    "inactive": false,
+    "dataTypes": [
+      {
+        "id": "temp",
+        "unit": "c",
+        "name": "Temperature"
+      }
+    ],
+    "value": "1755",
+    "createTime": {
+      "_seconds": 1526810981,
+      "_nanoseconds": 781656000
+    },
+    "hasData": true
+  },
+  {
+    "type": "Weatherstation",
+    "date": "04 February, 2019 14:24 pm ",
+    "price": "58.23",
+    "timestamp": 1549286664189,
+    "lat": 50.77664,
+    "sensorId": "WZL-IOTA-XDK-DMP-04",
+    "address": "VJNYNBDTZXYSAJF9UVNGPMYGFXEDHHWSK9PWKVGPUO9HQPFHZAPDTLACHOXBZUAHWRDHJ9B9HLJNBGVKW",
+    "inactive": false,
+    "dataTypes": [
+      {
+        "name": "Temperature",
+        "id": "temp",
+        "unit": "C"
+      },
+      {
+        "id": "hum",
+        "unit": "%",
+        "name": "Humidity"
+      },
+      {
+        "id": "press",
+        "unit": "Pa",
+        "name": "Pressure"
+      },
+      {
+        "id": "li",
+        "unit": "lux",
+        "name": "Light"
+      }
+    ],
+    "lon": 6.127641,
+    "location": {
+      "city": "Aachen",
+      "country": "Germany"
+    },
+    "company": "Industrial IOTA Lab Aachen",
+    "createTime": {
+      "_seconds": 1549286840,
+      "_nanoseconds": 447892000
+    },
+    "hasData": true
+  },
+  {
+    "lon": -46.62529,
+    "location": {
+      "city": "Sao Paulo",
+      "country": "Brasil"
+    },
+    "company": "XDK2MAM",
+    "type": "xdk110",
+    "date": "11 February, 2019 14:51 pm ",
+    "price": "9",
+    "timestamp": 1549907512222,
+    "lat": -23.533773,
+    "sensorId": "XDK2MAM-CPBR-2",
+    "address": "RRNXADCYKPQPTQC9FGRVCIMFLBTVAXWEJMOYZYQPXUKLWTSNBGSDXTOGSYNXMZYPAQI9OXOHG9QSDZ9DW",
+    "inactive": true,
+    "dataTypes": [
+      {
+        "id": "temp",
+        "unit": "° mC",
+        "name": "Temperature"
+      },
+      {
+        "name": "Humidty",
+        "id": "hum",
+        "unit": "Hg"
+      },
+      {
+        "name": "Pressure",
+        "id": "press",
+        "unit": "Pa"
+      }
+    ],
+    "createTime": {
+      "_seconds": 1549907510,
+      "_nanoseconds": 139081000
+    },
+    "hasData": true
+  },
+  {
+    "dataTypes": [
+      {
+        "id": "computerIsOn",
+        "unit": "seconds",
+        "name": "ComputerIsOn"
+      }
+    ],
+    "value": "1520",
+    "lon": "10.758121899999999",
+    "location": {
+      "city": "Oslo",
+      "country": "Norway"
+    },
+    "company": "Sopra Steria AS",
+    "type": "Desktop Computer",
+    "lat": "59.9299568",
+    "sensorId": "Erlends Desktop",
+    "address": "RDWYVEZEYBBXUIQSXCOATBDFMSD9KKHXPAANAKKVZOYXJRCPROEFFMHPYVPJXPSRFVSFHWOWTCKDMLBSW",
+    "inactive": true,
+    "createTime": {
+      "_seconds": 1529148522,
+      "_nanoseconds": 443384000
+    },
+    "hasData": true
+  },
+  {
+    "date": "22 January, 2019 10:07 am ",
+    "price": "5",
+    "timestamp": 1548131858451,
+    "lat": 23.0225,
+    "sensorId": "Raspberry pi",
+    "address": "CXKRNJOAPULIGZJGDWWUNUORMRIETKLYLTCYCEYHUUOHMEOTTMQUKZUJUNJPLQACEDFZMSWTSXXNWGHNA",
+    "inactive": true,
+    "dataTypes": [
+      {
+        "name": "entry time",
+        "id": "ent",
+        "unit": "Time"
+      },
+      {
+        "name": "exit time",
+        "id": "ext",
+        "unit": "Time"
+      }
+    ],
+    "lon": 72.5714,
+    "location": {
+      "city": "ahmedabad",
+      "country": "india"
+    },
+    "company": "abc",
+    "type": "Working hour details",
+    "createTime": {
+      "_seconds": 1548131873,
+      "_nanoseconds": 672747000
+    },
+    "hasData": true
+  },
+  {
+    "type": "XDK Sensor",
+    "lat": "41.8885198",
+    "sensorId": "Connectory-XDK-01",
+    "hash": "curlp27",
+    "address": "BO9GTEJJRSCGRBMJTYYXLPSVDXCAPOMGTLAKVVILVKQ9GXXTIXHCJ99TO9NMOKRRSAIRTUGKN9HA9YM9D",
+    "inactive": true,
+    "dataTypes": [
+      {
+        "id": "t",
+        "unit": "C",
+        "name": "Temperature"
+      },
+      {
+        "name": "Pressure",
+        "id": "p",
+        "unit": "mbar"
+      },
+      {
+        "id": "l",
+        "unit": "Lux",
+        "name": "Light"
+      },
+      {
+        "id": "h",
+        "unit": "%",
+        "name": "Humidity"
+      }
+    ],
+    "value": "1337",
+    "lon": -87.6376369,
+    "location": {
+      "country": "Chicago",
+      "city": "Connectory"
+    },
+    "company": "Connectory",
+    "security": 1,
+    "createTime": {
+      "_seconds": 1512761982,
+      "_nanoseconds": 169420000
+    },
+    "hasData": true
+  },
+  {
+    "value": "1837",
+    "lon": "5.944137700000056",
+    "location": {
+      "city": "Arnhem",
+      "country": "The Netherlands"
+    },
+    "company": "Allego B.V.",
+    "type": "Charging Station",
+    "lat": "51.9679982",
+    "sensorId": "TestDevice",
+    "address": "GFBHLBHYOWMAPXPSJFQWTMMAMHKMRLNJFBJVBW9TWYFLJSTGHIAQEDEGNLRXOONUMKXMDMGVIQGGRGUY9",
+    "inactive": true,
+    "dataTypes": [
+      {
+        "id": "socket",
+        "unit": "",
+        "name": "socket number"
+      },
+      {
+        "id": "available",
+        "unit": "",
+        "name": "availability yes/no"
+      }
+    ],
+    "createTime": {
+      "_seconds": 1519031873,
+      "_nanoseconds": 114824000
+    },
+    "hasData": true
+  },
+  {
+    "location": {
+      "city": "Sophia Antipolis",
+      "country": "France"
+    },
+    "lon": "7.074557",
+    "lat": "43.6219167",
+    "sensorId": "LoRa-sophialabs",
+    "address": "JE9YWKHUZPDNEBPHKDEOVLFHUXTT9LZUVERBUYKFTGDBTXWDBMQUIHHWOGQZNIJOUVHSCZFTNDOKQXK99",
+    "inactive": true,
+    "company": "Accenture",
+    "dataTypes": [
+      {
+        "id": "temperature",
+        "unit": "C",
+        "name": "Temperature"
+      },
+      {
+        "id": "humidity",
+        "unit": "%",
+        "name": "Humidity"
+      },
+      {
+        "name": "Electricity Power",
+        "id": "power",
+        "unit": "W"
+      },
+      {
+        "name": "Electricity Meter",
+        "id": "meter",
+        "unit": "Wh"
+      }
+    ],
+    "type": "Temperature/Energy",
+    "value": "344",
+    "createTime": {
+      "_seconds": 1512567894,
+      "_nanoseconds": 691938000
+    },
+    "hasData": true
+  },
+  {
+    "lat": "35.2271",
+    "sensorId": "Thingy52-CLT-2",
+    "address": "XMOSIYN9JXTWICQYZOQJDNBUWKZDFNREGKPXBUUTWIDPWTJFOWRZHCVTZRBGHX9ERYWRMKUGOVPEFYIWX",
+    "inactive": true,
+    "dataTypes": [
+      {
+        "id": "temperature",
+        "unit": "C",
+        "name": "Temperature"
+      },
+      null,
+      {
+        "name": "Humidity",
+        "id": "humidity",
+        "unit": "%"
+      },
+      {
+        "name": "CO2",
+        "id": "co2",
+        "unit": "ppm"
+      },
+      {
+        "id": "voc",
+        "unit": "ppb",
+        "name": "VOC"
+      }
+    ],
+    "type": "Nordic Thingy:52",
+    "value": "1",
+    "location": {
+      "city": "Charlotte",
+      "country": "USA"
+    },
+    "lon": "80.8431",
+    "createTime": {
+      "_seconds": 1559679612,
+      "_nanoseconds": 62436000
+    },
+    "hasData": true
+  },
+  {
+    "lat": 52.368,
+    "sensorId": "WeatherStation",
+    "address": "NXACNXFVFM9LZUCNOAZAMIY9XWKQTHSEAGGLB9RNMMYUDGTX9AXZPODOKEOUOKPJLKSPEVTLUEPTBLXQY",
+    "inactive": false,
+    "company": "Kryha",
+    "dataTypes": [
+      {
+        "name": "Temperature",
+        "id": "temp",
+        "unit": "C"
+      }
+    ],
+    "type": "Weather Station",
+    "price": "1",
+    "location": {
+      "country": "The Netherlands",
+      "city": "Amsterdam"
+    },
+    "lon": 4.9036,
+    "createTime": {
+      "_seconds": 1539267312,
+      "_nanoseconds": 976062000
+    },
+    "hasData": true
+  },
+  {
+    "date": "13 January, 2019 9:29 am ",
+    "price": "",
+    "timestamp": 1547368190344,
+    "lat": 1,
+    "sensorId": "StarWarsDevBD",
+    "address": "YEFPNWQJJQFZC9OOQKMJCWDUEXTLCOSFAKPAYXWHNGDY9BOLJOPXIJA9NLYUILGZMQ9VNQNYKEDOFZBRW",
+    "inactive": false,
+    "dataTypes": [
+      {
+        "id": "name",
+        "unit": "",
+        "name": "Name"
+      },
+      {
+        "id": "model",
+        "unit": "",
+        "name": "Model"
+      },
+      {
+        "id": "manufacturer",
+        "unit": "",
+        "name": "Manufacturer"
+      },
+      {
+        "name": "Class",
+        "id": "vehicle_class",
+        "unit": ""
+      }
+    ],
+    "lon": 2,
+    "location": {
+      "country": "Germany",
+      "city": "Berlin"
+    },
+    "company": "Private",
+    "type": "StarWars",
+    "createTime": {
+      "_seconds": 1547368207,
+      "_nanoseconds": 884362000
+    },
+    "hasData": true
+  },
+  {
+    "lat": "45.06561472918247",
+    "sensorId": "raspy-dth22-ismb",
+    "address": "LOZSMSDVAXDHIVKPBURBOHTRPAY9GKGSMXCZTJFG9QZJVUAGTSPZEILJNSKVGEATLNLUJERJJOGLWAQIY",
+    "inactive": true,
+    "company": "ISMB",
+    "dataTypes": [
+      {
+        "id": "temp",
+        "unit": "c",
+        "name": "Temperature"
+      },
+      {
+        "id": "hum",
+        "unit": "%",
+        "name": "Humidity"
+      }
+    ],
+    "type": "humidity-temperature-sensor",
+    "value": 3483,
+    "location": {
+      "city": "Turin",
+      "country": "Italy"
+    },
+    "lon": "7.659584283828735",
+    "createTime": {
+      "_seconds": 1510310925,
+      "_nanoseconds": 145727000
+    },
+    "hasData": true
+  },
+  {
+    "lat": "31.2600895659",
+    "sensorId": "zw_iota_001",
+    "address": "WKC9YYZMYPSQCTHMYPLJVKJPCNXXULTJMJOQQTAUMUVXT9RNYTUNZPUNPUBNYKVSFQSBCPKZOCEYPFKWW",
+    "inactive": false,
+    "dataTypes": [
+      {
+        "id": "temperature",
+        "unit": "c",
+        "name": "temperature"
+      }
+    ],
+    "value": "1980",
+    "lon": "121.6230054493",
+    "location": {
+      "city": "Shanghai",
+      "country": "China"
+    },
+    "company": "zhanway",
+    "type": "sensor",
+    "createTime": {
+      "_seconds": 1529894738,
+      "_nanoseconds": 873696000
+    }
+  },
+  {
+    "company": "Justas Dautaras",
+    "type": "Weather Station",
+    "date": "21 April, 2019 16:51 pm ",
+    "price": 0.00001,
+    "lat": 54,
+    "sensorId": "raspberrypi",
+    "address": "AVFZJNSCUXIVZQBBJUJRTHGKXLCPWTSPIJBTPZVABFUYYPHRKRLLWAVFKVCAQASAM9YGILSGKUAQHNOED",
+    "inactive": true,
+    "dataTypes": [
+      {
+        "id": "temperature",
+        "unit": "celsius",
+        "name": "Tmp"
+      },
+      {
+        "id": "humidity",
+        "unit": "percentage",
+        "name": "Hum"
+      }
+    ],
+    "lon": 25,
+    "location": {
+      "city": "Vilnius",
+      "country": "Lithuania"
+    },
+    "createTime": {
+      "_seconds": 1555854692,
+      "_nanoseconds": 159297000
+    }
+  },
+  {
+    "company": "local",
+    "type": "weather",
+    "date": "22 April, 2019 14:20 pm ",
+    "price": 1,
+    "lat": 52,
+    "sensorId": "raspberryNew",
+    "address": "LAXDSZLVDPYZESMJWJTSDIFLMZBH99FBOHUSPOKAEODQTOVKHNSBJGICRLVYWFJLLIHBWGH9G9GZCHETX",
+    "inactive": true,
+    "dataTypes": [
+      {
+        "id": "temperature",
+        "unit": "c",
+        "name": "temperature"
+      },
+      {
+        "name": "humidity",
+        "id": "humidity",
+        "unit": "perc"
+      }
+    ],
+    "lon": 54,
+    "location": {
+      "country": "Lithuania",
+      "city": "Vilnius"
+    },
+    "createTime": {
+      "_seconds": 1555932036,
+      "_nanoseconds": 366237000
+    }
+  },
+  {
+    "type": "Weather Station",
+    "value": "269",
+    "location": {
+      "city": "Rotterdam",
+      "country": "the Netherlands"
+    },
+    "lon": "4.469164699999965",
+    "lat": "51.923315",
+    "sensorId": "raspberrypi_rotterdam-1",
+    "address": "9OUEYZYHMUDVDNYEVJPYLPQSUHEKFYEEMZNW9GGDDZMUZHAILOYQIJMYHHQVABXCGWRVBNWCTBUWXWWPZ",
+    "inactive": true,
+    "company": "Blocklab",
+    "dataTypes": [
+      {
+        "name": "Temperature",
+        "id": "temp",
+        "unit": "c"
+      }
+    ],
+    "createTime": {
+      "_seconds": 1511866521,
+      "_nanoseconds": 904921000
+    },
+    "hasData": true
+  },
+  {
+    "type": "xdk110",
+    "date": "11 February, 2019 14:53 pm ",
+    "price": "10",
+    "timestamp": 1549907613738,
+    "lat": -23.533773,
+    "sensorId": "XDK2MAM-CPBR-3",
+    "address": "ZXLYDMSFBVQTLWIAYCMWFYLFUBDTCSXPLAVAJNYEIHAYVAOQRAOECWHZYIQ9POJQX9SWYTUEXXQEQKVID",
+    "inactive": true,
+    "dataTypes": [
+      {
+        "id": "temp",
+        "unit": "° mC",
+        "name": "Temperature"
+      },
+      {
+        "id": "hum",
+        "unit": "Hg",
+        "name": "Humidty"
+      },
+      {
+        "name": "Pressure",
+        "id": "press",
+        "unit": "Pa"
+      }
+    ],
+    "lon": -46.62529,
+    "location": {
+      "city": "Sao Paulo",
+      "country": "Brasil"
+    },
+    "company": "XDK2MAM",
+    "createTime": {
+      "_seconds": 1549907611,
+      "_nanoseconds": 706731000
+    },
+    "hasData": true
+  },
+  {
+    "inactive": true,
+    "dataTypes": [
+      {
+        "id": "111605826216653",
+        "unit": "c",
+        "name": "Temperature"
+      }
+    ],
+    "lon": -13.31,
+    "location": {
+      "city": "Madrid",
+      "country": "Spain"
+    },
+    "company": "Freelance",
+    "type": "Weather",
+    "date": "19 June, 2019 17:19 pm ",
+    "price": 1000,
+    "lat": 48.01,
+    "sensorId": "raspberry pi",
+    "address": "GCDMCVMVPOVAVDZTAMFEE9BYMMODE9JVFMGJGWZEST9LCCSHTTCSJPGUKU9TVZXVZGE9HSYAVXLZDAAOD",
+    "createTime": {
+      "_seconds": 1560957597,
+      "_nanoseconds": 590254000
+    }
+  },
+  {
+    "inactive": true,
+    "company": "IOTA Foundation",
+    "dataTypes": [
+      {
+        "id": "dec",
+        "unit": "db",
+        "name": "Sound"
+      }
+    ],
+    "type": "Sound monitor",
+    "value": 8483,
+    "location": {
+      "city": "Melbourne",
+      "country": "Australia"
+    },
+    "lon": "144.9631",
+    "lat": -37.8136,
+    "sensorId": "iota-401",
+    "address": "BMSQBITHSDLVOBIOGGBTFIU9JXEOKMXMDQQCGWQHISIHECLDFIFUVBRQKYD9JRGHHAMEABIP9BNQCHAEA",
+    "createTime": {
+      "_seconds": 1510225034,
+      "_nanoseconds": 995954000
+    },
+    "hasData": true
+  },
+  {
+    "lat": "63.417474",
+    "sensorId": "ntnu-thingy-03",
+    "address": "TVQU9WZSDTPUTYW9U9CJRSURZLSECBJBGCLVJUTLGVIUVFME9JJGHZUJOWMSUFSPOZAKVNCEMPQNHNWCG",
+    "inactive": false,
+    "dataTypes": [
+      {
+        "name": "Temperature",
+        "id": "temperature",
+        "unit": "C"
+      },
+      null,
+      {
+        "id": "humidity",
+        "unit": "%",
+        "name": "Humidity"
+      },
+      {
+        "name": "CO2",
+        "id": "co2",
+        "unit": "ppm"
+      },
+      {
+        "id": "voc",
+        "unit": "ppb",
+        "name": "VOC"
+      }
+    ],
+    "type": "Nordic Thingy:52",
+    "value": "82913",
+    "location": {
+      "city": "Trondheim",
+      "country": "Norway"
+    },
+    "lon": "10.403591",
+    "createTime": {
+      "_seconds": 1526029726,
+      "_nanoseconds": 204213000
+    }
+  },
+  {
+    "address": "HFDYJ9UKBEZIXE9CTERVEXWHKFYF9FYXLL9JQLFVMBXQI9IF9HWJEKTZSZO9TJQGWPXAGJGM9TXHD9FFA",
+    "inactive": true,
+    "dataTypes": [
+      {
+        "id": "temp",
+        "unit": "c",
+        "name": "temperature"
+      },
+      {
+        "id": "hum",
+        "unit": "rh",
+        "name": "humidity"
+      }
+    ],
+    "lon": 101.449684,
+    "location": {
+      "city": "shah alam",
+      "country": "malaysia"
+    },
+    "company": "vcs",
+    "type": "mangrove pi station",
+    "date": "29 March, 2019 12:17 pm ",
+    "price": 1000,
+    "lat": 3.106572,
+    "sensorId": "mangroves-pi-02",
+    "createTime": {
+      "_seconds": 1553833087,
+      "_nanoseconds": 516589000
+    }
+  },
+  {
+    "address": "PIOVKXYTCDNWFRSWLKKBFVUVYUMFLCWMLYIJDUAYSYXWQMMFCLKBNAUOEOT9VWJGOHJTMIUIN9LJHGVBB",
+    "inactive": true,
+    "dataTypes": [
+      {
+        "name": "",
+        "id": "",
+        "unit": ""
+      }
+    ],
+    "lon": 13.353,
+    "location": {
+      "city": "Berlin",
+      "country": "Germany"
+    },
+    "company": "test",
+    "type": "dsfaf",
+    "date": "28 February, 2019 10:22 am ",
+    "price": 12.134,
+    "lat": 52.495,
+    "sensorId": "tesxy2332",
+    "createTime": {
+      "_seconds": 1551345747,
+      "_nanoseconds": 862927000
+    }
+  },
+  {
+    "inactive": true,
+    "company": "SAP",
+    "dataTypes": [
+      {
+        "name": "Temperature",
+        "id": "temp",
+        "unit": "C"
+      },
+      {
+        "name": "Pressure",
+        "id": "pres",
+        "unit": "hPa"
+      }
+    ],
+    "type": "BMT280-bosch",
+    "value": 53932,
+    "location": {
+      "city": "Potsdam",
+      "country": "Germany"
+    },
+    "lon": "13.055286",
+    "lat": "52.434983",
+    "sensorId": "mysensor",
+    "address": "YDDULHRSTIKDOQYGJAKQODZWICCOXJRGNJTIJEIRSCFKAW9MMOIUAGYKDCUMKXKNEATQRKMFC9KEWPCDC",
+    "createTime": {
+      "_seconds": 1509622816,
+      "_nanoseconds": 155536000
+    },
+    "hasData": true
+  },
+  {
+    "company": "jd",
+    "type": "weather",
+    "date": "23 April, 2019 19:50 pm ",
+    "price": 1,
+    "lat": 54,
+    "sensorId": "raspberrypi1",
+    "address": "BHTZSMOOGUKFQMKGUMRQ9XLBGRXILY9TBGFQQDBWCDRCDYGLYHXNUTEIFTSXLTHSFCXSBLLWCSGPC9TMY",
+    "inactive": true,
+    "dataTypes": [
+      {
+        "id": "temp",
+        "unit": "c",
+        "name": "temperature"
+      }
+    ],
+    "lon": 52,
+    "location": {
+      "country": "Lithuania",
+      "city": "Vilnius"
+    },
+    "createTime": {
+      "_seconds": 1556038259,
+      "_nanoseconds": 336115000
+    },
+    "hasData": true
+  },
+  {
+    "lat": 52,
+    "sensorId": "test",
+    "address": "ECDSULYWMFDYFJCMEPXHEMIGHLBMPKIWGGVZ9HOAJGN9WVEBOOG9XEPXQ9RNOFNEELCPAHCCYZAKFXPNA",
+    "inactive": true,
+    "dataTypes": [
+      {
+        "name": "Temperature",
+        "id": "temp",
+        "unit": "c"
+      }
+    ],
+    "lon": -12,
+    "location": {
+      "city": "Testcity",
+      "country": "Testland"
+    },
+    "company": "test company",
+    "type": "test station",
+    "date": "11 May, 2019 17:07 pm ",
+    "price": 5000,
+    "createTime": {
+      "_seconds": 1557605259,
+      "_nanoseconds": 573823000
+    }
+  },
+  {
+    "company": "Hottinger Baldwin Messtechnik",
+    "type": "Temperature Sensor",
+    "date": "04 March, 2019 14:55 pm ",
+    "price": 38.23,
+    "lat": 49.884732,
+    "sensorId": "wut-temp-sensor",
+    "address": "EDEFXUEBGQDAEYXGOZIVIQZUWIU9OZK9QLFKUUIZWSXGBVMMZGSHQGGHXXMYIODDBLQPSUBIZIJLXXEH9",
+    "inactive": true,
+    "dataTypes": [
+      {
+        "name": "Temperature",
+        "id": "temp",
+        "unit": "C"
+      },
+      {
+        "id": "time",
+        "unit": "s",
+        "name": "TimeSeconds"
+      }
+    ],
+    "lon": 8.642643,
+    "location": {
+      "city": "Darmstadt",
+      "country": "Germany"
+    },
+    "createTime": {
+      "_seconds": 1551707719,
+      "_nanoseconds": 271618000
+    }
+  },
+  {
+    "lat": 40,
+    "sensorId": "ryans-steps",
+    "address": "H9GJNLKESKDRLQAMBXOZCMMEFEIHETSPVECRHQ9PZMRWPALO9IIAIYVXNXRDXYYKZLESPCLMWQGKMIBFZ",
+    "inactive": true,
+    "dataTypes": [
+      {
+        "id": "name",
+        "unit": "step",
+        "name": "Steps"
+      }
+    ],
+    "lon": 20,
+    "location": {
+      "city": "San Francisco",
+      "country": "USA"
+    },
+    "company": "Ryan Inc.",
+    "type": "iPhone",
+    "date": "14 February, 2019 11:16 am",
+    "price": "100",
+    "timestamp": 1550053001462,
+    "createTime": {
+      "_seconds": 1562808943,
+      "_nanoseconds": 352011000
+    }
+  },
+  {
+    "company": "MeezApps",
+    "type": "Test Device",
+    "date": "07 March, 2019 12:21 pm ",
+    "price": 500,
+    "lat": 53.313,
+    "sensorId": "testd2",
+    "address": "KENVAHEKJAWHYKCBOGBCQBJKPXMMTALMSTMCZNBGMNZIDDLGNITRDMEFCHPTDIFYCQDCIWRWVDHBPEFNX",
+    "inactive": true,
+    "dataTypes": [
+      {
+        "id": "data",
+        "unit": "s",
+        "name": "data"
+      }
+    ],
+    "lon": 12.676,
+    "location": {
+      "country": "Pakistan",
+      "city": "Karachi"
+    },
+    "createTime": {
+      "_seconds": 1551943278,
+      "_nanoseconds": 946756000
+    }
+  },
+  {
+    "value": "1328",
+    "lon": "16.93",
+    "location": {
+      "country": "Poland",
+      "city": "Poznań"
+    },
+    "company": "Private",
+    "type": "Air Purifier",
+    "lat": "52.408",
+    "sensorId": "xiaomi-air-purifier",
+    "address": "HFADSJZ9GRUGODVGRZDXADIBT9UXJ9KNLGWCRGOTFFGCDMORHXSXCFBCGZAORFLZIPNAQOTUXSBPFGWKB",
+    "inactive": false,
+    "dataTypes": [
+      {
+        "name": "Temperature",
+        "id": "temperature",
+        "unit": "C"
+      },
+      {
+        "name": "Humidity",
+        "id": "humidity",
+        "unit": "%"
+      }
+    ],
+    "createTime": {
+      "_seconds": 1529436614,
+      "_nanoseconds": 351279000
+    }
+  },
+  {
+    "company": "XDK2MAM",
+    "type": "xdk110",
+    "date": "15 April, 2019 20:50 pm ",
+    "price": 11,
+    "lat": -34.603722,
+    "sensorId": "xdk2mam-test",
+    "address": "VO9K9ETEBYNW99OAEOSPDPIAGPS9DMVAXZUMLGGZDFVQGMZYXI9VFPJOIMKMCHW9YEBS9NMYDZPEAQDHC",
+    "inactive": true,
+    "dataTypes": [
+      {
+        "id": "temp",
+        "unit": "mC",
+        "name": "Temperature"
+      },
+      {
+        "name": "Humidity",
+        "id": "hum",
+        "unit": "Hg"
+      },
+      {
+        "name": "Pressure",
+        "id": "press",
+        "unit": "Pa"
+      }
+    ],
+    "lon": -58.381592,
+    "location": {
+      "city": "Buenos Aires",
+      "country": "Argentina"
+    },
+    "createTime": {
+      "_seconds": 1555372253,
+      "_nanoseconds": 425091000
+    },
+    "hasData": true
+  },
+  {
+    "dataTypes": [
+      {
+        "name": "Temperature",
+        "id": "temp",
+        "unit": "c"
+      },
+      {
+        "name": "Humidity",
+        "id": "hum",
+        "unit": "hpa"
+      }
+    ],
+    "type": "Weather Station",
+    "value": "111",
+    "location": {
+      "country": "Germany",
+      "city": "Berlin"
+    },
+    "lon": "13.24",
+    "lat": "52.31",
+    "sensorId": "stick-0004",
+    "address": "HGFWEABTQYGJIMZJUVJTMTGXNNRXCNOXSSXNOENZCTESSGGWDCEJNEMLJRJALCUUGPKAGVNIUDORDAIG9",
+    "inactive": true,
+    "createTime": {
+      "_seconds": 1517558114,
+      "_nanoseconds": 387139000
+    }
+  },
+  {
+    "lat": "35.655432",
+    "sensorId": "shibuya-001",
+    "address": "ALICUIIYBJEZCLNIANYGKSCJRJZBFVBPWCZMARXNBMMKHRJQOLYOUXPDRIWIAVXCPVVBFHQGUOEBNXOMA",
+    "inactive": true,
+    "dataTypes": [
+      {
+        "name": "Temperature",
+        "id": "temp",
+        "unit": "c"
+      }
+    ],
+    "value": "1500",
+    "lon": "139.705346",
+    "location": {
+      "city": "Shibuya",
+      "country": "Japan"
+    },
+    "company": "transcosmos",
+    "type": "WeatherStation",
+    "createTime": {
+      "_seconds": 1531456527,
+      "_nanoseconds": 266142000
+    }
+  },
+  {
+    "type": "ESP 8266",
+    "date": "01 May, 2019 6:26 am ",
+    "price": 40,
+    "lat": 52.887,
+    "sensorId": "esp0001",
+    "address": "PW9UGENIZYMJNEGASJEM9KWNGPMAZOSJPOMTXPLSQDLRDBWMCTER9UYBLUPTZCNEXILXUWMCBVUNSPDAA",
+    "inactive": true,
+    "dataTypes": [
+      {
+        "id": "ldr",
+        "unit": "V",
+        "name": "Voltage"
+      }
+    ],
+    "lon": -9.98,
+    "location": {
+      "country": "UK",
+      "city": "Manchester"
+    },
+    "company": "Private",
+    "createTime": {
+      "_seconds": 1556688407,
+      "_nanoseconds": 162296000
+    }
+  },
+  {
+    "type": "Weather Station",
+    "lat": "45.452523",
+    "sensorId": "amx",
+    "address": "LLEUCGMFHUGWIODVUOJSUZNOXHRVGFGKYN9ITFGHNNNXIDARTZWLCV9YVZEYGVACQBLYQEXCOWWFQAGCD",
+    "inactive": true,
+    "dataTypes": [
+      {
+        "name": "Temperature",
+        "id": "temp",
+        "unit": "c"
+      },
+      {
+        "name": "Date",
+        "id": "date",
+        "unit": ""
+      }
+    ],
+    "value": "1716",
+    "lon": "9.165829",
+    "location": {
+      "city": "Milan",
+      "country": "Italy"
+    },
+    "company": "Deloitte",
+    "createTime": {
+      "_seconds": 1531832798,
+      "_nanoseconds": 825021000
+    }
+  },
+  {
+    "lon": -46.912858,
+    "location": {
+      "city": "Jandira",
+      "country": "São Paulo"
+    },
+    "company": "Private",
+    "type": "Weather Station",
+    "date": "29 April, 2019 9:50 am ",
+    "price": 18.23,
+    "lat": -23.5456982,
+    "sensorId": "apolo-station01",
+    "address": "SQLJVJYQQFCWPSDINJRCFH9BYBQXODALAPKS9E9OIGGJTPNHXXXCSUTTKJCQCVQOTIEXIVFAFENM9SSJB",
+    "inactive": true,
+    "dataTypes": [
+      {
+        "id": "temp",
+        "unit": "C",
+        "name": "Temperature"
+      }
+    ],
+    "createTime": {
+      "_seconds": 1556542257,
+      "_nanoseconds": 970609000
+    }
+  },
+  {
+    "inactive": true,
+    "dataTypes": [
+      {
+        "name": "temperature",
+        "id": "temp",
+        "unit": "oc"
+      },
+      {
+        "name": "humidity",
+        "id": "hum",
+        "unit": "%"
+      }
+    ],
+    "lon": -0.127,
+    "location": {
+      "city": "London",
+      "country": "United Kingdom"
+    },
+    "company": "Private",
+    "type": "Temp & Hum Sensor",
+    "date": "14 July, 2019 23:14 pm ",
+    "price": 25000,
+    "lat": 51.507,
+    "sensorId": "bnl-nmcudht11",
+    "address": "CSF9RBCHONALPXHFLXMSZFCGZPMRAYFNCTODNJXLUKYPEEVCJTKUMNCFW9ZCFTBHBR9RNJJQHXJYVMBYY",
+    "createTime": {
+      "_seconds": 1563142491,
+      "_nanoseconds": 581564000
+    }
+  },
+  {
+    "lat": "20.6753229",
+    "sensorId": "dht-11",
+    "address": "RETXAGFLHW9DOQPRIXKKCBYFRHFXJJQAAOYRZOJUDHZDONPKUVUDUIEWBATRDZXZEWGPJACQUSIJSSVBD",
+    "inactive": true,
+    "dataTypes": [
+      {
+        "id": "temp",
+        "unit": "C",
+        "name": "Temperature"
+      }
+    ],
+    "value": "1928",
+    "lon": "103.3931335",
+    "location": {
+      "city": "Guadalajara",
+      "country": "México"
+    },
+    "company": "connectory",
+    "type": "DataMining",
+    "createTime": {
+      "_seconds": 1532727669,
+      "_nanoseconds": 411592000
+    }
+  },
+  {
+    "lat": "37.9471671",
+    "sensorId": "macway.gr",
+    "address": "ULOGFZMPRDUGQDHFSWSRESNZFCGAPNOOVGDCJHOUBGXZMCQDTMUOGQVNMFXXYTW9CRRYRVXTLMXDFYYDW",
+    "inactive": true,
+    "dataTypes": [
+      {
+        "name": "Temperature",
+        "id": "temperature",
+        "unit": "C"
+      },
+      null,
+      {
+        "id": "humidity",
+        "unit": "%",
+        "name": "Humidity"
+      },
+      {
+        "id": "co2",
+        "unit": "ppm",
+        "name": "CO2"
+      },
+      {
+        "id": "voc",
+        "unit": "ppb",
+        "name": "VOC"
+      }
+    ],
+    "type": "Nordic Thingy:52",
+    "value": "1",
+    "location": {
+      "city": "Athens",
+      "country": "Greece"
+    },
+    "lon": "23.7386217",
+    "createTime": {
+      "_seconds": 1552514727,
+      "_nanoseconds": 827648000
+    }
+  },
+  {
+    "lon": 19.364153,
+    "location": {
+      "city": "Gödöllő",
+      "country": "Hungary"
+    },
+    "company": "CropOM",
+    "type": "Crop Development",
+    "date": "02 March, 2019 0:29 am ",
+    "price": 58.23,
+    "lat": 47.599358,
+    "sensorId": "cropomtest1",
+    "address": "ITDGLBOTSBRUBZGOKRO9WDYHJMGWBRCRMHMQKMBLX9SFXCEQALLJXRDINDX9JPCKZLKNMMMKYTLAWPBKC",
+    "inactive": true,
+    "dataTypes": [
+      {
+        "id": "gdd",
+        "unit": "gdd",
+        "name": "Growing Degree Days"
+      },
+      {
+        "name": "Phenological State",
+        "id": "pheno",
+        "unit": "phenological state"
+      },
+      {
+        "id": "gmc",
+        "unit": "GMC",
+        "name": "Grain Moisture Content"
+      },
+      {
+        "id": "ndvi",
+        "unit": "ndvi",
+        "name": "Normalized difference Vegetation Index"
+      },
+      {
+        "name": "Forecasted Yield",
+        "id": "fy",
+        "unit": "yield"
+      }
+    ],
+    "createTime": {
+      "_seconds": 1551482983,
+      "_nanoseconds": 688199000
+    }
+  }
+]
